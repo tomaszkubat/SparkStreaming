@@ -6,17 +6,16 @@
 * and save as parquet (local)
 ****************************************/
 
-package tk.streaming
+package tk.stream
 
 import org.apache.spark.SparkConf
 import org.apache.spark.sql._
 // import org.apache.spark.sql.functions._
 
 
-case class SensorsSchema(SensorId: Int, Timestamp: String, Value: Double, State: String, OperatorId: Int)
-
-
 object Streamer {
+
+  case class SensorsSchema(SensorId: Int, Timestamp: String, Value: Double, State: String, OperatorId: Int)
 
   def main(args: Array[String]): Unit = {
 
