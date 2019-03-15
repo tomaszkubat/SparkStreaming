@@ -1,0 +1,21 @@
+SensorType,Limit,WindowHours,Verified
+Biossido di Azoto,200,1,1
+Biossido di Zolfo,350,1,1
+Monossido di Carbonio,10,8,1
+Ozono,120,8,1
+PM10,50,24,1
+Biossido di Zolfo,125,24,1
+Arsenico,6,8766,1
+Benzene,5,8766,1
+Benzo(a)pirene,1,8766,1
+Cadmio,5,8766,1
+Piombo,500,8766,1
+Nikel,20,8766,1
+Biossido di Azoto,40,8766,1
+PM10,40,8766,1
+Particelle sospese PM2.5,18,26298,1
+Ammoniaca,200,24,0
+BlackCarbon,12,48,0
+Ossidi di Azoto,20,3,0
+PM10 SM2005,10,9,0
+Particolato Totale Sospeso,20,12,0

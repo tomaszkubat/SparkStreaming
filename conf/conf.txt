@@ -1,0 +1,10 @@
+rootDir=/home/usr_spark/Projects/SparkStreaming/
+dataDir=/home/usr_spark/Projects/SparkStreaming/data/
+
+app1Name="Streamer"
+app1Master="local[2]"
+app1RefreshInterval=30
+
+app2Name="Analyzer"
+app2Master="local[*]"
+app2MinEfficiency=0.9

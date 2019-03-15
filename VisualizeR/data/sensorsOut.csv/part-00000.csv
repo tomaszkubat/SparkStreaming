@@ -1,0 +1,895 @@
+SensorId,State,Ratio,Label,CordsLat,CordsLng
+5834,ok,0.1,5834 Milano - via Senato   [ok: 1.2/10 Monossido di Carbonio 8/0/0],45.470499014097,9.19746036011253
+6340,ok,"","",45.4995836904834,9.24732688950765
+6610,broken,"","",45.6244564811923,9.55650435031822
+6744,ok,0.1,6744 Breno   [ok: 26.7/200 Biossido di Azoto 1/0/0],45.9568305329985,10.3010583394352
+6782,ok,0.1,6782 Brescia - via Turati   [ok: 1.2/10 Monossido di Carbonio 8/0/0],45.539529434956,10.2317859074772
+6859,broken,0.8,6859 Rezzato   [broken: 32.2/40 Biossido di Azoto 94/1/8671],45.5157082948446,10.3362404229965
+5572,ok,0.2,5572 Sondrio - via Mazzini   [ok: 32.4/200 Biossido di Azoto 1/0/0],46.1679668122783,9.87014407497457
+6388,air pollution,3.0,6388 Busto Arsizio - via Magenta   [air pollution: 59.6/20 Ossidi di Azoto 3/0/0],45.6107360400126,8.85011575209207
+6885,broken,0.7,6885 Porto Mantovano   [broken: 26.0/40 Biossido di Azoto 96/0/8670],45.1955400901703,10.7972622986903
+9739,broken,"","",45.1593728023411,9.69814824935254
+9798,ok,0.1,9798 Mantova - S.Agnese   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.1605683301058,10.7955641137079
+5566,broken,1.3,5566 Fino Mornasco   [broken: 50.9/40 Biossido di Azoto 96/0/8670],45.7480444095457,9.04259284418394
+5609,ok,0.2,5609 S.Giuliano Milanese   [ok: 42.4/200 Biossido di Azoto 1/0/0],45.3961946255272,9.28270007555784
+5691,ok,0.0,5691 Codogno - via Trento   [ok: 0.8/125 Biossido di Zolfo 24/0/0],45.1593728023411,9.69814824935254
+5950,broken,0.6,5950 Corte de Cortesi   [broken: 23.0/40 Biossido di Azoto 96/0/8670],45.2784875547884,10.0062023912043
+6951,broken,"","",45.5400578469714,10.2228184492742
+9969,broken,1.0,9969 Valmadrera   [broken: 40.6/40 Biossido di Azoto 96/0/8670],45.8422072610225,9.35165816612796
+10286,broken,0.8,10286 Lecco - Via Sora   [broken: 30.5/40 Biossido di Azoto 96/0/8670],45.8637488412797,9.39995034468185
+12611,broken,0.5,12611 Magenta   [broken: 0.5/1 Benzo(a)pirene 1/0/8765],45.4624157911066,8.88021043312557
+5539,ok,0.2,5539 Arese   [ok: 39.8/200 Biossido di Azoto 1/0/0],45.5434332545016,9.08072583128464
+5548,broken,0.5,5548 Motta Visconti (aria)   [broken: 18.7/40 Biossido di Azoto 96/0/8670],45.2819561974278,8.98856272679326
+6706,air pollution,4.3,6706 Pavia - p.zza Minerva   [air pollution: 85.1/20 Ossidi di Azoto 3/0/0],45.1863290804948,9.14666604128678
+9800,ok,0.0,9800 Mantova - Tridolino   [ok: 0.3/10 Monossido di Carbonio 8/0/0],45.1533195857856,10.8592639119623
+10097,ok,0.2,10097 Borgofranco - loc. Bonizzo   [ok: 32.9/200 Biossido di Azoto 1/0/0],45.0465015381674,11.1809358191275
+17297,ok,0.0,17297 Bergamo - via Meucci   [ok: 4.7/120 Ozono 8/0/0],45.6910374054721,9.64365057946139
+5508,broken,0.8,5508 Legnano   [broken: 30.9/40 Biossido di Azoto 73/23/8670],45.5961339321329,8.91881399306327
+5563,broken,1.0,5563 Varese - via Copelli   [broken: 39.1/40 Biossido di Azoto 96/0/8670],45.8169732332637,8.82024070715821
+6356,air pollution,3.7,6356 Sesto S.Giovanni   [air pollution: 74.8/20 Ossidi di Azoto 3/0/0],45.5347657650922,9.23610792341164
+6859,ok,0.2,6859 Rezzato   [ok: 32.7/200 Biossido di Azoto 1/0/0],45.5157082948446,10.3362404229965
+12684,broken,0.1,12684 Soresina   [broken: 2.1/20 Nikel 1/0/8765],45.2839771544676,9.86339841999363
+5603,broken,0.8,5603 Lodi - viale Vignati   [broken: 33.0/40 Biossido di Azoto 96/0/8670],45.3060129875238,9.48526286320174
+5798,ok,0.1,5798 Como - viale Cattaneo   [ok: 1.0/10 Monossido di Carbonio 8/0/0],45.8150428601129,9.06697137484454
+9833,broken,0.3,9833 Mantova - p.zza Gramsci   [broken: 1.6/5 Benzene 2/2/8762],45.1517433795766,10.7814077000957
+12617,broken,"","",45.1605683301058,10.7955641137079
+12687,broken,0.0,12687 Soresina   [broken: 4.2/500 Piombo 1/0/8765],45.2839771544676,9.86339841999363
+17288,ok,0.0,17288 Monza Parco   [ok: 4.8/120 Ozono 8/0/0],45.6012321995514,9.27507265782848
+5570,broken,0.7,5570 Chiavenna   [broken: 27.0/40 Biossido di Azoto 96/0/8670],46.3208034978265,9.3955909132574
+6308,air pollution,3.4,6308 Garbagnate   [air pollution: 67.3/20 Ossidi di Azoto 3/0/0],45.5717162655023,9.07824159056828
+10580,ok,0.0,10580 Cremona - p.zza Cadorna   [ok: 0.9/125 Biossido di Zolfo 24/0/0],45.1319469128517,10.015741513336
+5719,ok,0.0,5719 Meda   [ok: 4.6/120 Ozono 8/0/0],45.6617621918917,9.1566439845516
+9971,ok,0.1,9971 Valmadrera   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.8422072610225,9.35165816612796
+10114,broken,"","",45.0132567684933,11.3723449480582
+20157,broken,1.6,20157 Pavia - via Folperti   [broken: 28.0/18 Particelle sospese PM2.5 4/0/26294],45.1946760990779,9.16463830063009
+10179,ok,0.1,10179 Sermide - via Dalla Chiesa   [ok: 27.8/200 Biossido di Azoto 1/0/0],45.0046137311141,11.2940147077068
+12022,broken,2.2,12022 Spinadesco   [broken: 39.5/18 Particelle sospese PM2.5 4/0/26294],45.1504688698568,9.93059647227233
+5576,broken,0.9,5576 Colico   [broken: 37.8/40 Biossido di Azoto 96/0/8670],46.1381409051264,9.38468724765179
+5668,ok,0.0,5668 Lallio   [ok: 1.2/125 Biossido di Zolfo 24/0/0],45.6596639179285,9.61856876125757
+10054,ok,0.1,10054 Ferrera Erbognone - AGIP via Indipendenza   [ok: 8.7/125 Biossido di Zolfo 24/0/0],45.1108236343601,8.86874423650247
+5605,broken,0.7,5605 Melegnano   [broken: 27.7/40 Biossido di Azoto 96/0/8670],45.35428575071,9.32924342411371
+5739,ok,0.1,5739 Bormio   [ok: 11.9/120 Ozono 8/0/0],46.4695239713259,10.375432759159
+6208,air pollution,5.4,6208 Filago - via Don Milani   [air pollution: 107.8/20 Ossidi di Azoto 3/0/0],45.6338645090807,9.55608425579086
+6366,air pollution,2.9,6366 Milano - Verziere   [air pollution: 57.4/20 Ossidi di Azoto 3/0/0],45.4633467406666,9.19532480766886
+6801,ok,0.1,6801 Sarezzo - via Minelli   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.6496267122407,10.205090218837
+10275,ok,0.0,10275 Moggio   [ok: 2.2/200 Biossido di Azoto 1/0/0],45.9127875203029,9.49753816765342
+17126,broken,0.5,17126 Milano - Pascal Città Studi   [broken: 2.5/5 Benzene 4/0/8762],45.4789960616874,9.2354910384975
+6786,ok,0.2,6786 Brescia - via Ziziola   [ok: 43.8/200 Biossido di Azoto 1/0/0],45.5145591905673,10.2184635028013
+6831,air pollution,2.2,6831 Lonato   [air pollution: 44.4/20 Ossidi di Azoto 3/0/0],45.4637531362103,10.4807720435713
+10023,ok,0.1,10023 Calusco d' Adda   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.6904290785451,9.48426092764779
+10081,ok,0.1,10081 Ponti sul Mincio   [ok: 9.3/120 Ozono 8/0/0],45.4127716916863,10.6833573437868
+10506,broken,0.5,10506 Dalmine - via Verdi   [broken: 2.6/5 Benzene 4/0/8762],45.6497025123625,9.60122333878526
+6288,air pollution,2.4,6288 Arconate (aria)   [air pollution: 47.6/20 Ossidi di Azoto 3/0/0],45.5485173574195,8.84732192921626
+6364,air pollution,2.5,6364 Turbigo   [air pollution: 49.2/20 Ossidi di Azoto 3/0/0],45.5265508699425,8.73649657837922
+6915,broken,"","",45.626218960836,9.04006309067821
+10039,ok,0.1,10039 Ferno   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.6192437799476,8.75697044545343
+10456,broken,1.7,10456 Lodi - S. Alberto   [broken: 30.0/18 Particelle sospese PM2.5 4/0/26294],45.3027835030958,9.49527369692632
+5750,ok,0.1,5750 Varese - Vidoletti   [ok: 12.5/120 Ozono 8/0/0],45.8369007765555,8.80392612667495
+10155,broken,0.4,10155 Pieve di Coriano   [broken: 17.0/40 Biossido di Azoto 96/0/8670],45.0339428141846,11.1169181095401
+10432,broken,0.9,10432 Sondrio - via Paribelli   [broken: 35.1/40 Biossido di Azoto 96/0/8670],46.1678524406651,9.8792099244699
+20004,broken,0.2,20004 Milano - Pascal Città Studi   [broken: 2.8/12 BlackCarbon 2/0/46],45.4789960616874,9.2354910384975
+5531,broken,0.8,5531 Milano - Verziere   [broken: 32.3/40 Biossido di Azoto 96/0/8670],45.4633467406666,9.19532480766886
+5736,ok,0.1,5736 Nibionno   [ok: 11.1/120 Ozono 8/0/0],45.7511112616178,9.26502096480554
+6852,broken,1.0,6852 Ospitaletto   [broken: 40.3/40 Biossido di Azoto 96/0/8670],45.5532513997544,10.0849161439684
+6889,ok,0.1,6889 Marmirolo - Bosco Fontana   [ok: 11.7/200 Biossido di Azoto 1/0/0],45.2081790393849,10.7426362511732
+9804,air pollution,2.8,9804 Mantova - S.Agnese   [air pollution: 55.0/20 Ossidi di Azoto 3/0/0],45.1605683301058,10.7955641137079
+10321,broken,0.7,10321 Mortara   [broken: 27.4/40 Biossido di Azoto 96/0/8670],45.2547287207888,8.74415437971093
+10326,ok,0.1,10326 Parona   [ok: 22.0/200 Biossido di Azoto 1/0/0],45.2819356103579,8.75433459453983
+12589,broken,"","",45.5130388186538,10.1919418887793
+12608,broken,0.2,12608 Magenta   [broken: 1.1/6 Arsenico 1/0/8765],45.4624157911066,8.88021043312557
+12669,broken,"","",45.0168778207554,11.0760946326405
+12686,broken,0.0,12686 Soresina   [broken: 0.2/5 Cadmio 1/0/8765],45.2839771544676,9.86339841999363
+6232,air pollution,5.4,6232 Como - viale Cattaneo   [air pollution: 108.3/20 Ossidi di Azoto 3/0/0],45.8150428601129,9.06697137484454
+10074,ok,0.1,10074 Salionze   [ok: 18.6/200 Biossido di Azoto 1/0/0],45.4033137582129,10.7265979707794
+12625,broken,0.2,12625 Milano - Pascal Città Studi   [broken: 1.1/6 Arsenico 1/0/8765],45.4789960616874,9.2354910384975
+5832,ok,0.2,5832 Rho - via Statuto   [ok: 2.3/10 Monossido di Carbonio 8/0/0],45.5234256620035,9.04459987111101
+5845,ok,0.1,5845 Sondrio - via Mazzini   [ok: 1.3/10 Monossido di Carbonio 8/0/0],46.1679668122783,9.87014407497457
+6248,air pollution,6.6,6248 Lecco - Via Amendola   [air pollution: 132.9/20 Ossidi di Azoto 3/0/0],45.8501911945785,9.39557706689322
+6766,air pollution,4.8,6766 Brescia - Broletto   [air pollution: 95.5/20 Ossidi di Azoto 3/0/0],45.5400578469714,10.2228184492742
+10123,ok,0.1,10123 Magnacavallo   [ok: 10.6/120 Ozono 8/0/0],45.0051415213483,11.1783880872139
+10270,broken,0.0,10270 Darfo (aria)   [broken: 5.8/120 Ozono 6/1/1],45.8746021098904,10.1773568089814
+12670,broken,"","",45.0168778207554,11.0760946326405
+5591,ok,0.1,5591 Tavernola Bergamasca   [ok: 19.5/200 Biossido di Azoto 1/0/0],45.7162999241173,10.0447659993684
+6360,air pollution,7.3,6360 Trezzo d`Adda   [air pollution: 146.6/20 Ossidi di Azoto 3/0/0],45.6136917587774,9.50812248390592
+6959,broken,"","",45.7308367226743,9.12573432702293
+9852,broken,0.7,9852 Cornale (Voghera Energia)   [broken: 27.3/40 Biossido di Azoto 96/0/8670],45.0400765720296,8.91414459900241
+10133,broken,0.1,10133 Melara   [broken: 0.7/10 Monossido di Carbonio 7/0/1],45.0632143616133,11.2092107496994
+12020,ok,0.0,12020 Spinadesco   [ok: 4.9/120 Ozono 8/0/0],45.1504688698568,9.93059647227233
+5516,broken,1.1,5516 Trezzo d`Adda   [broken: 44.4/40 Biossido di Azoto 96/0/8670],45.6136917587774,9.50812248390592
+5530,ok,"","",45.545942683674,8.77610458437027
+5965,ok,0.1,5965 Soresina   [ok: 26.6/200 Biossido di Azoto 1/0/0],45.2839771544676,9.86339841999363
+9925,ok,0.0,9925 Cremona - Via Fatebenefratelli   [ok: 1.6/120 Ozono 8/0/0],45.142540632217,10.0438361583694
+9930,air pollution,2.5,9930 Cremona - Via Fatebenefratelli   [air pollution: 50.6/20 Ossidi di Azoto 3/0/0],45.142540632217,10.0438361583694
+12665,broken,"","",45.9127875203029,9.49753816765342
+6262,air pollution,1.6,6262 Castiraga   [air pollution: 32.5/20 Ossidi di Azoto 3/0/0],45.2623251999215,9.40028132306792
+6947,broken,"","",45.1863290804948,9.14666604128678
+5578,broken,0.8,5578 Nibionno   [broken: 30.1/40 Biossido di Azoto 96/0/8670],45.7511112616178,9.26502096480554
+5712,ok,"","",45.539768856661,9.48688536743615
+9852,ok,0.1,9852 Cornale (Voghera Energia)   [ok: 24.5/200 Biossido di Azoto 1/0/0],45.0400765720296,8.91414459900241
+12668,broken,"","",45.0168778207554,11.0760946326405
+5528,ok,0.2,5528 Corsico   [ok: 36.9/200 Biossido di Azoto 1/0/0],45.4361085100991,9.09741084187147
+17286,ok,0.3,17286 Monza Parco   [ok: 55.7/200 Biossido di Azoto 1/0/0],45.6012321995514,9.27507265782848
+5521,ok,"","",45.4680440793097,8.73676932023362
+5691,ok,0.0,5691 Codogno - via Trento   [ok: 0.6/350 Biossido di Zolfo 1/0/0],45.1593728023411,9.69814824935254
+5807,ok,0.1,5807 Merate   [ok: 1.0/10 Monossido di Carbonio 8/0/0],45.6979519897024,9.4061909386866
+6382,air pollution,3.2,6382 Sondrio - via Mazzini   [air pollution: 64.6/20 Ossidi di Azoto 3/0/0],46.1679668122783,9.87014407497457
+6398,air pollution,5.2,6398 Saronno - via Santuario   [air pollution: 103.0/20 Ossidi di Azoto 3/0/0],45.626218960836,9.04006309067821
+10145,ok,0.1,10145 Ostiglia - via Colombo   [ok: 1.3/10 Monossido di Carbonio 8/0/0],45.073311155732,11.1370340072998
+10355,ok,0.1,10355 Robecchetto   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.5178221900884,8.76656210924496
+17040,broken,0.1,17040 Bergamo - via Meucci   [broken: 2.1/20 Nikel 1/0/8765],45.6910374054721,9.64365057946139
+6956,broken,"","",45.4633467406666,9.19532480766886
+12583,broken,"","",45.1095393802722,10.0692307349565
+12688,broken,0.6,12688 Soresina   [broken: 0.6/1 Benzo(a)pirene 1/0/8765],45.2839771544676,9.86339841999363
+10103,broken,"","",45.0465015381674,11.1809358191275
+17042,broken,0.0,17042 Cremona - Via Fatebenefratelli   [broken: 1.4/200 Ammoniaca 1/0/23],45.142540632217,10.0438361583694
+5658,ok,0.0,5658 Varese - Vidoletti   [ok: 1.0/350 Biossido di Zolfo 1/0/0],45.8369007765555,8.80392612667495
+6202,air pollution,7.6,6202 Seriate   [air pollution: 152.6/20 Ossidi di Azoto 3/0/0],45.6863560643991,9.71494791763153
+6901,ok,0.0,6901 Mantova - Lunetta 2   [ok: 5.6/120 Ozono 8/0/0],45.1579852781893,10.8239314339681
+9923,ok,0.0,9923 Cremona - Via Fatebenefratelli   [ok: 3.8/350 Biossido di Zolfo 1/0/0],45.142540632217,10.0438361583694
+12695,broken,0.0,12695 Sondrio - via Paribelli   [broken: 23.2/500 Piombo 1/0/8765],46.1678524406651,9.8792099244699
+5514,broken,1.2,5514 Abbiategrasso   [broken: 48.8/40 Biossido di Azoto 96/0/8670],45.3954044901462,8.91341656677829
+6917,broken,"","",45.5828834261476,8.83448718958336
+6962,broken,"","",45.6338645090807,9.55608425579086
+9997,ok,0.1,9997 Ferrera Erbognone - ENI   [ok: 8.1/120 Ozono 8/0/0],45.1135031448296,8.87406484888261
+20032,air pollution,1.6,20032 Sannazzaro de' Burgondi - AGIP   [air pollution: 32.6/20 Ossidi di Azoto 3/0/0],45.1027662768414,8.90417452771467
+5600,broken,0.9,5600 Lallio   [broken: 36.6/40 Biossido di Azoto 96/0/8670],45.6596639179285,9.61856876125757
+6856,air pollution,3.3,6856 Ospitaletto   [air pollution: 65.7/20 Ossidi di Azoto 3/0/0],45.5532513997544,10.0849161439684
+6925,broken,"","",46.4695239713259,10.375432759159
+9888,ok,0.1,9888 Bergamo - via Meucci   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.6910374054721,9.64365057946139
+10017,air pollution,5.3,10017 Calusco d' Adda   [air pollution: 105.9/20 Ossidi di Azoto 3/0/0],45.6904290785451,9.48426092764779
+10280,ok,0.1,10280 Milano - Pascal Città Studi   [ok: 8.1/125 Biossido di Zolfo 24/0/0],45.4789960616874,9.2354910384975
+20104,broken,2.4,20104 Treviglio   [broken: 43.0/18 Particelle sospese PM2.5 4/0/26294],45.5193349813872,9.59200999488843
+5545,ok,0.3,5545 Meda   [ok: 57.4/200 Biossido di Azoto 1/0/0],45.6617621918917,9.1566439845516
+5546,broken,1.1,5546 Vimercate   [broken: 42.3/40 Biossido di Azoto 96/0/8670],45.6149208704422,9.36839616178516
+6358,air pollution,1.8,6358 Settimo Milanese   [air pollution: 36.5/20 Ossidi di Azoto 3/0/0],45.4802687855546,9.05686203175973
+6412,air pollution,2.3,6412 Cremona - p.zza Cadorna   [air pollution: 45.3/20 Ossidi di Azoto 3/0/0],45.1319469128517,10.015741513336
+5531,ok,0.1,5531 Milano - Verziere   [ok: 28.7/200 Biossido di Azoto 1/0/0],45.4633467406666,9.19532480766886
+5534,broken,1.1,5534 Limito   [broken: 44.6/40 Biossido di Azoto 96/0/8670],45.4836303532325,9.32736003321515
+6062,broken,0.4,6062 Milano - P.zza  Zavattari   [broken: 2.2/5 Benzene 4/0/8762],45.4760634050979,9.14178626718666
+6218,air pollution,5.2,6218 Bergamo - via Meucci   [air pollution: 104.4/20 Ossidi di Azoto 3/0/0],45.6910374054721,9.64365057946139
+6926,broken,"","",46.1322829600037,9.56617989398447
+6927,broken,"","",45.8501911945785,9.39557706689322
+6966,ok,"","",45.5130388186538,10.1919418887793
+20041,ok,0.0,20041 Mantova - S.Agnese   [ok: 4.0/120 Ozono 8/0/0],45.1605683301058,10.7955641137079
+5630,ok,0.0,5630 Limito   [ok: 4.6/350 Biossido di Zolfo 1/0/0],45.4836303532325,9.32736003321515
+6264,air pollution,2.0,6264 Codogno - via Trento   [air pollution: 40.2/20 Ossidi di Azoto 3/0/0],45.1593728023411,9.69814824935254
+6268,air pollution,2.4,6268 Lodi - viale Vignati   [air pollution: 47.1/20 Ossidi di Azoto 3/0/0],45.3060129875238,9.48526286320174
+10143,broken,0.7,10143 Ostiglia - via Colombo   [broken: 26.9/40 Biossido di Azoto 96/0/8670],45.073311155732,11.1370340072998
+10285,air pollution,3.2,10285 Lecco - Via Sora   [air pollution: 64.5/20 Ossidi di Azoto 3/0/0],45.8637488412797,9.39995034468185
+12597,broken,0.0,12597 Casirate d`Adda   [broken: 0.2/5 Cadmio 1/0/8765],45.4982271339449,9.55623226235176
+5568,broken,0.9,5568 Cantù - via Meucci   [broken: 37.4/40 Biossido di Azoto 96/0/8670],45.7308367226743,9.12573432702293
+6346,ok,"","",45.5234256620035,9.04459987111101
+5617,ok,0.0,5617 Cassano d`Adda - Via di Vona   [ok: 2.7/125 Biossido di Zolfo 24/0/0],45.5200086703217,9.51222096894355
+5665,ok,0.0,5665 Filago - via Don Milani   [ok: 1.2/350 Biossido di Zolfo 1/0/0],45.6338645090807,9.55608425579086
+9897,broken,0.3,9897 Casirate d`Adda   [broken: 13.5/40 Biossido di Azoto 96/0/8670],45.4982271339449,9.55623226235176
+12692,broken,0.0,12692 Varese - via Copelli   [broken: 0.2/5 Cadmio 1/0/8765],45.8169732332637,8.82024070715821
+6212,air pollution,5.0,6212 Osio Sotto   [air pollution: 100.2/20 Ossidi di Azoto 3/0/0],45.6205556793956,9.61173782181237
+6954,broken,"","",45.5157082948446,10.3362404229965
+9976,broken,"","",45.8422072610225,9.35165816612796
+12570,broken,3.2,12570 Como - viale Cattaneo   [broken: 58.3/18 Particelle sospese PM2.5 4/0/26294],45.8150428601129,9.06697137484454
+17127,broken,0.4,17127 Milano - viale Marche   [broken: 2.2/5 Benzene 4/0/8762],45.496316443651,9.19093355531362
+5577,broken,1.4,5577 Lecco - Via Amendola   [broken: 57.2/40 Biossido di Azoto 96/0/8670],45.8501911945785,9.39557706689322
+5698,ok,"","",45.3303610018123,9.41464472662726
+6272,air pollution,2.2,6272 Montanaso   [air pollution: 44.4/20 Ossidi di Azoto 3/0/0],45.336131009052,9.45255388178171
+6862,ok,0.1,6862 Rezzato   [ok: 0.5/10 Monossido di Carbonio 8/0/0],45.5157082948446,10.3362404229965
+5551,broken,1.2,5551 Milano - via Senato   [broken: 46.5/40 Biossido di Azoto 96/0/8670],45.470499014097,9.19746036011253
+5677,ok,0.0,5677 Erba - via Battisti   [ok: 1.6/350 Biossido di Zolfo 1/0/0],45.808573806923,9.22177920448844
+9916,air pollution,1.7,9916 Mantova - Lunetta 2   [air pollution: 33.0/20 Ossidi di Azoto 3/0/0],45.1579852781893,10.8239314339681
+10484,broken,"","",45.2334936413037,9.66625037529603
+20034,ok,0.1,20034 Sannazzaro de' Burgondi - AGIP   [ok: 28.2/200 Biossido di Azoto 1/0/0],45.1027662768414,8.90417452771467
+20216,ok,0.0,20216 Casoni - AGIP   [ok: 5.8/125 Biossido di Zolfo 13/11/0],45.0696586413859,8.86888929943922
+5668,ok,0.0,5668 Lallio   [ok: 1.2/350 Biossido di Zolfo 1/0/0],45.6596639179285,9.61856876125757
+6234,air pollution,4.5,6234 Erba - via Battisti   [air pollution: 89.4/20 Ossidi di Azoto 3/0/0],45.808573806923,9.22177920448844
+6322,air pollution,6.3,6322 Limbiate   [air pollution: 125.0/20 Ossidi di Azoto 3/0/0],45.5974434982303,9.12594894247239
+6888,ok,0.0,6888 Porto Mantovano   [ok: 5.1/120 Ozono 8/0/0],45.1955400901703,10.7972622986903
+9880,broken,0.1,9880 Monza - via Machiavelli   [broken: 0.7/10 Monossido di Carbonio 1/0/7],45.5802634844224,9.27357309271327
+10049,ok,0.0,10049 Galliavola - AGIP   [ok: 7.5/350 Biossido di Zolfo 1/0/0],45.0951216334813,8.82030831999621
+10288,ok,0.0,10288 Lecco - Via Sora   [ok: 5.5/120 Ozono 8/0/0],45.8637488412797,9.39995034468185
+10290,broken,"","",45.8637488412797,9.39995034468185
+5566,ok,0.3,5566 Fino Mornasco   [ok: 50.3/200 Biossido di Azoto 1/0/0],45.7480444095457,9.04259284418394
+10109,ok,0.0,10109 Ceneselli   [ok: 4.3/350 Biossido di Zolfo 1/0/0],45.0132567684933,11.3723449480582
+10347,broken,2.1,10347 Mantova - S.Agnese   [broken: 37.8/18 Particelle sospese PM2.5 4/0/26294],45.1605683301058,10.7955641137079
+12638,broken,"","",45.470499014097,9.19746036011253
+20031,broken,0.0,20031 Sannazzaro de' Burgondi - AGIP   [broken: 1.4/200 Ammoniaca 1/0/23],45.1027662768414,8.90417452771467
+5511,ok,0.1,5511 Cassano d`Adda - Via di Vona   [ok: 25.8/200 Biossido di Azoto 1/0/0],45.5200086703217,9.51222096894355
+5579,broken,1.2,5579 Merate   [broken: 47.6/40 Biossido di Azoto 96/0/8670],45.6979519897024,9.4061909386866
+5749,ok,0.0,5749 Saronno - via Santuario   [ok: 2.9/120 Ozono 8/0/0],45.626218960836,9.04006309067821
+6813,broken,0.8,6813 Gambara   [broken: 30.3/40 Biossido di Azoto 96/0/8670],45.2495436247462,10.2991194960641
+10007,ok,0.2,10007 Truccazzano   [ok: 1.6/10 Monossido di Carbonio 8/0/0],45.48455813668,9.47134838897473
+12664,broken,"","",45.9127875203029,9.49753816765342
+5512,ok,0.1,5512 Rivolta d` Adda - via Beccaria   [ok: 20.3/200 Biossido di Azoto 1/0/0],45.4685530169473,9.51134533383752
+20156,broken,"","",45.1946760990779,9.16463830063009
+5631,ok,"","",45.4624157911066,8.88021043312557
+5744,ok,0.0,5744 Busto Arsizio - via Magenta   [ok: 1.1/120 Ozono 8/0/0],45.6107360400126,8.85011575209207
+5809,ok,0.1,5809 Lodi - viale Vignati   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.3060129875238,9.48526286320174
+6370,air pollution,5.9,6370 Vimercate   [air pollution: 117.8/20 Ossidi di Azoto 3/0/0],45.6149208704422,9.36839616178516
+6902,ok,0.1,6902 Montanaso   [ok: 6.4/120 Ozono 8/0/0],45.336131009052,9.45255388178171
+9740,broken,"","",45.3303610018123,9.41464472662726
+9921,air pollution,1.1,9921 Marmirolo - Bosco Fontana   [air pollution: 22.5/20 Ossidi di Azoto 3/0/0],45.2081790393849,10.7426362511732
+10547,broken,2.7,10547 Dalmine - via Verdi   [broken: 48.8/18 Particelle sospese PM2.5 4/0/26294],45.6497025123625,9.60122333878526
+20155,broken,"","",45.0696586413859,8.86888929943922
+5516,ok,0.3,5516 Trezzo d`Adda   [ok: 53.6/200 Biossido di Azoto 1/0/0],45.6136917587774,9.50812248390592
+5683,ok,0.0,5683 Colico   [ok: 2.0/350 Biossido di Zolfo 1/0/0],46.1381409051264,9.38468724765179
+10112,ok,0.1,10112 Ceneselli   [ok: 9.0/120 Ozono 8/0/0],45.0132567684933,11.3723449480582
+10166,broken,0.1,10166 Schivenoglia   [broken: 0.6/5 Benzene 4/0/8762],45.0168778207554,11.0760946326405
+10173,broken,"","",45.0168778207554,11.0760946326405
+5557,broken,1.4,5557 Saronno - via Santuario   [broken: 55.2/40 Biossido di Azoto 96/0/8670],45.626218960836,9.04006309067821
+6260,air pollution,2.1,6260 Abbadia Cerreto   [air pollution: 41.9/20 Ossidi di Azoto 3/0/0],45.3095022692823,9.58579041612041
+9861,ok,0.1,9861 Voghera - via Pozzoni   [ok: 11.0/120 Ozono 8/0/0],44.9995459891403,9.00843738181569
+17039,broken,0.1,17039 Bergamo - via Meucci   [broken: 0.4/5 Cadmio 1/0/8765],45.6910374054721,9.64365057946139
+6418,ok,0.1,6418 Crema - via XI febbraio   [ok: 0.6/10 Monossido di Carbonio 8/0/0],45.3663090781943,9.70394551361317
+6921,broken,"","",45.808573806923,9.22177920448844
+5520,ok,0.2,5520 Turbigo   [ok: 34.7/200 Biossido di Azoto 1/0/0],45.5265508699425,8.73649657837922
+5530,broken,0.6,5530 Castano Primo   [broken: 25.5/40 Biossido di Azoto 31/65/8670],45.545942683674,8.77610458437027
+5960,ok,0.0,5960 Crema - via XI febbraio   [ok: 2.8/120 Ozono 8/0/0],45.3663090781943,9.70394551361317
+6870,broken,0.3,6870 Mantova - via Ariosto   [broken: 1.7/5 Benzene 4/0/8762],45.145260125789,10.8033259500793
+10278,air pollution,4.2,10278 Milano - Pascal Città Studi   [air pollution: 84.7/20 Ossidi di Azoto 3/0/0],45.4789960616874,9.2354910384975
+10491,broken,"","",45.9127875203029,9.49753816765342
+12600,broken,1.0,12600 Casirate d`Adda   [broken: 1.0/1 Benzo(a)pirene 2/0/8764],45.4982271339449,9.55623226235176
+5544,broken,1.4,5544 Limbiate   [broken: 57.8/40 Biossido di Azoto 96/0/8670],45.5974434982303,9.12594894247239
+5567,ok,0.2,5567 Erba - via Battisti   [ok: 46.5/200 Biossido di Azoto 1/0/0],45.808573806923,9.22177920448844
+5570,ok,0.1,5570 Chiavenna   [ok: 19.2/200 Biossido di Azoto 1/0/0],46.3208034978265,9.3955909132574
+6324,air pollution,4.3,6324 Limito   [air pollution: 86.2/20 Ossidi di Azoto 3/0/0],45.4836303532325,9.32736003321515
+6912,broken,"","",45.4624157911066,8.88021043312557
+10049,ok,0.0,10049 Galliavola - AGIP   [ok: 4.7/125 Biossido di Zolfo 24/0/0],45.0951216334813,8.82030831999621
+10155,ok,0.1,10155 Pieve di Coriano   [ok: 19.7/200 Biossido di Azoto 1/0/0],45.0339428141846,11.1169181095401
+12623,broken,2.5,12623 Meda   [broken: 2.5/1 Benzo(a)pirene 1/0/8765],45.6617621918917,9.1566439845516
+20034,broken,0.9,20034 Sannazzaro de' Burgondi - AGIP   [broken: 35.1/40 Biossido di Azoto 96/0/8670],45.1027662768414,8.90417452771467
+5704,ok,0.0,5704 Sondrio - via Mazzini   [ok: 3.8/125 Biossido di Zolfo 24/0/0],46.1679668122783,9.87014407497457
+9805,broken,0.5,9805 Mantova - Tridolino   [broken: 21.6/40 Biossido di Azoto 96/0/8670],45.1533195857856,10.8592639119623
+10098,ok,0.0,10098 Borgofranco - loc. Bonizzo   [ok: 6.0/350 Biossido di Zolfo 1/0/0],45.0465015381674,11.1809358191275
+5586,ok,0.2,5586 Bergamo - via Meucci   [ok: 49.0/200 Biossido di Azoto 1/0/0],45.6910374054721,9.64365057946139
+5853,ok,0.1,5853 Varese - via Copelli   [ok: 1.0/10 Monossido di Carbonio 8/0/0],45.8169732332637,8.82024070715821
+10002,ok,0.2,10002 Cassano d'Adda 2 - Via Milano   [ok: 1.9/10 Monossido di Carbonio 8/0/0],45.526472545851,9.5159804836271
+10349,broken,2.8,10349 Castano Primo   [broken: 50.0/18 Particelle sospese PM2.5 4/0/26294],45.545942683674,8.77610458437027
+10413,broken,"","",45.7358914453284,9.73839478804344
+12663,broken,"","",45.9127875203029,9.49753816765342
+5515,broken,1.6,5515 Carate Brianza   [broken: 64.6/40 Biossido di Azoto 45/51/8670],45.6720247340785,9.23459166178805
+5554,ok,0.2,5554 Arconate (aria)   [ok: 35.8/200 Biossido di Azoto 1/0/0],45.5485173574195,8.84732192921626
+5700,ok,0.0,5700 Bormio   [ok: 1.6/350 Biossido di Zolfo 1/0/0],46.4695239713259,10.375432759159
+5812,ok,0.1,5812 S.Giuliano Milanese   [ok: 1.1/10 Monossido di Carbonio 8/0/0],45.3961946255272,9.28270007555784
+6057,broken,"","",45.470499014097,9.19746036011253
+6909,broken,"","",45.5434332545016,9.08072583128464
+9978,broken,1.8,9978 Casirate d`Adda   [broken: 33.3/18 Particelle sospese PM2.5 4/0/26294],45.4982271339449,9.55623226235176
+9993,ok,0.1,9993 Ferrera Erbognone - ENI   [ok: 18.1/200 Biossido di Azoto 1/0/0],45.1135031448296,8.87406484888261
+5543,ok,0.2,5543 Garbagnate   [ok: 39.2/200 Biossido di Azoto 1/0/0],45.5717162655023,9.07824159056828
+5561,ok,0.2,5561 Busto Arsizio - Accam   [ok: 45.1/200 Biossido di Azoto 1/0/0],45.5828834261476,8.83448718958336
+5572,broken,1.0,5572 Sondrio - via Mazzini   [broken: 40.2/40 Biossido di Azoto 96/0/8670],46.1679668122783,9.87014407497457
+5609,broken,1.0,5609 S.Giuliano Milanese   [broken: 41.1/40 Biossido di Azoto 96/0/8670],45.3961946255272,9.28270007555784
+6966,ok,"","",45.5130388186538,10.1919418887793
+9807,air pollution,1.2,9807 Mantova - Tridolino   [air pollution: 24.1/20 Ossidi di Azoto 3/0/0],45.1533195857856,10.8592639119623
+10072,broken,"","",45.1027662768414,8.90417452771467
+12661,broken,"","",45.9127875203029,9.49753816765342
+5520,broken,0.9,5520 Turbigo   [broken: 37.3/40 Biossido di Azoto 96/0/8670],45.5265508699425,8.73649657837922
+5662,ok,0.0,5662 Treviglio   [ok: 1.6/125 Biossido di Zolfo 24/0/0],45.5193349813872,9.59200999488843
+6798,ok,0.2,6798 Sarezzo - via Minelli   [ok: 41.1/200 Biossido di Azoto 1/0/0],45.6496267122407,10.205090218837
+6907,broken,"","",45.6136917587774,9.50812248390592
+9927,broken,"","",45.142540632217,10.0438361583694
+10109,ok,0.0,10109 Ceneselli   [ok: 4.5/125 Biossido di Zolfo 23/0/1],45.0132567684933,11.3723449480582
+5579,ok,0.3,5579 Merate   [ok: 53.2/200 Biossido di Azoto 1/0/0],45.6979519897024,9.4061909386866
+6354,air pollution,4.6,6354 Milano - via Senato   [air pollution: 91.6/20 Ossidi di Azoto 3/0/0],45.470499014097,9.19746036011253
+6314,air pollution,1.8,6314 Lacchiarella   [air pollution: 36.9/20 Ossidi di Azoto 3/0/0],45.3245174128473,9.13451726419928
+10019,broken,0.9,10019 Calusco d' Adda   [broken: 34.3/40 Biossido di Azoto 96/0/8670],45.6904290785451,9.48426092764779
+30165,ok,0.1,30165 Brescia - Villaggio Sereno   [ok: 6.4/120 Ozono 8/0/0],45.5130388186538,10.1919418887793
+5528,broken,1.1,5528 Corsico   [broken: 45.3/40 Biossido di Azoto 95/0/8671],45.4361085100991,9.09741084187147
+10054,ok,0.0,10054 Ferrera Erbognone - AGIP via Indipendenza   [ok: 8.7/350 Biossido di Zolfo 1/0/0],45.1108236343601,8.86874423650247
+10089,ok,0.1,10089 Monzambano - campo sportivo   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.3891535402378,10.6905762650721
+12639,broken,"","",45.470499014097,9.19746036011253
+5693,ok,0.0,5693 Lodi - viale Vignati   [ok: 2.5/350 Biossido di Zolfo 1/0/0],45.3060129875238,9.48526286320174
+6386,air pollution,3.4,6386 Busto Arsizio - Accam   [air pollution: 67.0/20 Ossidi di Azoto 3/0/0],45.5828834261476,8.83448718958336
+6419,air pollution,2.4,6419 Crema - via XI febbraio   [air pollution: 47.8/20 Ossidi di Azoto 3/0/0],45.3663090781943,9.70394551361317
+6958,broken,"","",46.1679668122783,9.87014407497457
+10457,air pollution,1.5,10457 Bertonico   [air pollution: 30.3/20 Ossidi di Azoto 3/0/0],45.2334936413037,9.66625037529603
+30160,broken,1.0,30160 Darfo (aria)   [broken: 39.6/40 Biossido di Azoto 94/1/8671],45.8746021098904,10.1773568089814
+6276,air pollution,4.3,6276 S.Giuliano Milanese   [air pollution: 86.0/20 Ossidi di Azoto 3/0/0],45.3961946255272,9.28270007555784
+6372,air pollution,4.1,6372 Milano - P.zza  Zavattari   [air pollution: 81.7/20 Ossidi di Azoto 3/0/0],45.4760634050979,9.14178626718666
+6791,ok,0.0,6791 Brescia - via Ziziola   [ok: 3.8/120 Ozono 8/0/0],45.5145591905673,10.2184635028013
+6869,broken,0.4,6869 Pavia - via Folperti   [broken: 1.9/5 Benzene 4/0/8762],45.1946760990779,9.16463830063009
+6877,broken,0.7,6877 Mantova - p.zza Gramsci   [broken: 26.3/40 Biossido di Azoto 96/0/8670],45.1517433795766,10.7814077000957
+10088,broken,0.4,10088 Monzambano - campo sportivo   [broken: 17.0/40 Biossido di Azoto 96/0/8670],45.3891535402378,10.6905762650721
+5574,ok,0.1,5574 Bormio   [ok: 29.5/200 Biossido di Azoto 1/0/0],46.4695239713259,10.375432759159
+10327,ok,0.0,10327 Parona   [ok: 2.3/125 Biossido di Zolfo 24/0/0],45.2819356103579,8.75433459453983
+10384,broken,0.4,10384 Sannazzaro de' Burgondi - AGIP   [broken: 2.1/5 Benzene 4/0/8762],45.1027662768414,8.90417452771467
+5514,ok,0.2,5514 Abbiategrasso   [ok: 43.8/200 Biossido di Azoto 1/0/0],45.3954044901462,8.91341656677829
+12615,broken,"","",45.1605683301058,10.7955641137079
+5683,ok,0.0,5683 Colico   [ok: 2.1/125 Biossido di Zolfo 24/0/0],46.1381409051264,9.38468724765179
+6705,ok,0.1,6705 Pavia - p.zza Minerva   [ok: 0.6/10 Monossido di Carbonio 8/0/0],45.1863290804948,9.14666604128678
+10043,broken,"","",45.6192437799476,8.75697044545343
+10581,ok,0.1,10581 Perledo   [ok: 15.6/200 Biossido di Azoto 1/0/0],46.0158283043838,9.28640920868081
+17286,broken,1.5,17286 Monza Parco   [broken: 60.9/40 Biossido di Azoto 94/0/8672],45.6012321995514,9.27507265782848
+6330,air pollution,5.0,6330 Meda   [air pollution: 100.6/20 Ossidi di Azoto 3/0/0],45.6617621918917,9.1566439845516
+9831,broken,"","",45.1605683301058,10.7955641137079
+9999,broken,1.1,9999 Cassano d'Adda 2 - Via Milano   [broken: 43.1/40 Biossido di Azoto 96/0/8670],45.526472545851,9.5159804836271
+12591,broken,"","",45.5130388186538,10.1919418887793
+5532,broken,1.2,5532 Cinisello Balsamo   [broken: 48.6/40 Biossido di Azoto 96/0/8670],45.5523257874121,9.22776423327263
+5953,ok,0.2,5953 Cremona - p.zza Cadorna   [ok: 32.4/200 Biossido di Azoto 1/0/0],45.1319469128517,10.015741513336
+6789,ok,0.1,6789 Brescia - via Ziziola   [ok: 0.5/10 Monossido di Carbonio 8/0/0],45.5145591905673,10.2184635028013
+10452,broken,0.9,10452 Lodi - S. Alberto   [broken: 34.3/40 Biossido di Azoto 96/0/8670],45.3027835030958,9.49527369692632
+5646,ok,0.2,5646 Turbigo   [ok: 21.8/125 Biossido di Zolfo 24/0/0],45.5265508699425,8.73649657837922
+6216,air pollution,5.9,6216 Lallio   [air pollution: 117.3/20 Ossidi di Azoto 3/0/0],45.6596639179285,9.61856876125757
+6744,broken,0.7,6744 Breno   [broken: 28.7/40 Biossido di Azoto 93/3/8670],45.9568305329985,10.3010583394352
+12674,broken,1.1,12674 Sondrio - via Paribelli   [broken: 6.3/6 Arsenico 1/0/8765],46.1678524406651,9.8792099244699
+5601,ok,0.1,5601 S.Rocco al Porto   [ok: 22.1/200 Biossido di Azoto 1/0/0],45.0819866969786,9.70078817718398
+6953,broken,"","",45.6460496337253,10.389295302792
+9772,broken,0.2,9772 Lodi - viale Vignati   [broken: 1.1/5 Benzene 4/0/8762],45.3060129875238,9.48526286320174
+9805,ok,0.1,9805 Mantova - Tridolino   [ok: 20.0/200 Biossido di Azoto 1/0/0],45.1533195857856,10.8592639119623
+10583,ok,0.8,10583 Perledo   [ok: 16.6/20 Ossidi di Azoto 3/0/0],46.0158283043838,9.28640920868081
+5662,ok,0.0,5662 Treviglio   [ok: 1.4/350 Biossido di Zolfo 1/0/0],45.5193349813872,9.59200999488843
+12605,broken,"","",45.8746021098904,10.1773568089814
+17295,ok,0.0,17295 Busto Arsizio - Accam   [ok: 2.4/120 Ozono 8/0/0],45.5828834261476,8.83448718958336
+5605,ok,0.1,5605 Melegnano   [ok: 28.2/200 Biossido di Azoto 1/0/0],45.35428575071,9.32924342411371
+10279,broken,1.1,10279 Milano - Pascal Città Studi   [broken: 43.2/40 Biossido di Azoto 96/0/8670],45.4789960616874,9.2354910384975
+10299,broken,0.2,10299 Brescia - via Ziziola   [broken: 1.0/5 Benzene 4/0/8762],45.5145591905673,10.2184635028013
+10329,air pollution,1.5,10329 Parona   [air pollution: 30.4/20 Ossidi di Azoto 3/0/0],45.2819356103579,8.75433459453983
+12588,broken,"","",45.5130388186538,10.1919418887793
+12602,broken,"","",45.8746021098904,10.1773568089814
+5596,broken,1.0,5596 Ciserano   [broken: 38.3/40 Biossido di Azoto 96/0/8670],45.5915484295005,9.60612773157576
+5619,ok,"","",45.5510419443724,9.16261365315132
+5828,ok,0.1,5828 Meda   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.6617621918917,9.1566439845516
+6338,air pollution,1.5,6338 Motta Visconti (aria)   [air pollution: 29.7/20 Ossidi di Azoto 3/0/0],45.2819561974278,8.98856272679326
+10179,broken,0.6,10179 Sermide - via Dalla Chiesa   [broken: 23.6/40 Biossido di Azoto 96/0/8670],45.0046137311141,11.2940147077068
+12028,broken,"","",45.1946760990779,9.16463830063009
+12616,broken,"","",45.1605683301058,10.7955641137079
+5989,broken,"","",45.6956803443269,9.66124914606551
+6918,broken,"","",45.8169732332637,8.82024070715821
+9928,broken,0.8,9928 Cremona - Via Fatebenefratelli   [broken: 31.2/40 Biossido di Azoto 96/0/8670],45.142540632217,10.0438361583694
+10331,broken,0.7,10331 Vigevano - via Valletta   [broken: 27.4/40 Biossido di Azoto 96/0/8670],45.3036078696557,8.84480460996544
+30162,air pollution,3.5,30162 Brescia - Villaggio Sereno   [air pollution: 70.8/20 Ossidi di Azoto 3/0/0],45.5130388186538,10.1919418887793
+5950,ok,0.1,5950 Corte de Cortesi   [ok: 29.1/200 Biossido di Azoto 1/0/0],45.2784875547884,10.0062023912043
+9969,ok,0.2,9969 Valmadrera   [ok: 48.2/200 Biossido di Azoto 1/0/0],45.8422072610225,9.35165816612796
+10407,ok,0.2,10407 Villa di Serio   [ok: 44.8/200 Biossido di Azoto 1/0/0],45.7358914453284,9.73839478804344
+10475,broken,0.7,10475 Turano   [broken: 26.3/40 Biossido di Azoto 96/0/8670],45.2502830891846,9.62125819274314
+11041,broken,"","",45.5802634844224,9.27357309271327
+5826,ok,0.2,5826 Magenta   [ok: 1.5/10 Monossido di Carbonio 8/0/0],45.4624157911066,8.88021043312557
+9856,ok,0.1,9856 Cornale (Voghera Energia)   [ok: 10.9/120 Ozono 8/0/0],45.0400765720296,8.91414459900241
+10079,ok,0.1,10079 Ponti sul Mincio   [ok: 18.3/200 Biossido di Azoto 1/0/0],45.4127716916863,10.6833573437868
+10108,broken,0.5,10108 Ceneselli   [broken: 19.4/40 Biossido di Azoto 95/0/8671],45.0132567684933,11.3723449480582
+10274,ok,0.2,10274 Moggio   [ok: 3.9/20 Ossidi di Azoto 3/0/0],45.9127875203029,9.49753816765342
+10473,air pollution,2.4,10473 Turano   [air pollution: 47.1/20 Ossidi di Azoto 3/0/0],45.2502830891846,9.62125819274314
+12662,broken,"","",45.9127875203029,9.49753816765342
+5597,ok,0.3,5597 Bergamo - via Goisis   [ok: 52.2/200 Biossido di Azoto 1/0/0],45.7159124698522,9.68895874530976
+5670,ok,0.0,5670 Bergamo - via Garibaldi   [ok: 1.9/125 Biossido di Zolfo 24/0/0],45.6956803443269,9.66124914606551
+5963,broken,0.5,5963 Piadena   [broken: 19.3/40 Biossido di Azoto 96/0/8670],45.1297932236774,10.3798316685224
+6083,broken,0.6,6083 Somma Lombardo - MXP   [broken: 3.1/5 Benzene 4/0/8762],45.6495371272924,8.71269145828479
+9857,ok,0.2,9857 Voghera - via Pozzoni   [ok: 36.1/200 Biossido di Azoto 1/0/0],44.9995459891403,9.00843738181569
+5604,ok,0.1,5604 Montanaso   [ok: 26.7/200 Biossido di Azoto 1/0/0],45.336131009052,9.45255388178171
+9968,air pollution,4.0,9968 Valmadrera   [air pollution: 79.9/20 Ossidi di Azoto 3/0/0],45.8422072610225,9.35165816612796
+6701,broken,0.7,6701 Pavia - p.zza Minerva   [broken: 28.2/40 Biossido di Azoto 96/0/8670],45.1863290804948,9.14666604128678
+9797,broken,0.5,9797 Mantova - S.Agnese   [broken: 2.3/5 Benzene 4/0/8762],45.1605683301058,10.7955641137079
+10177,air pollution,1.7,10177 Sermide - via Dalla Chiesa   [air pollution: 34.3/20 Ossidi di Azoto 3/0/0],45.0046137311141,11.2940147077068
+5598,broken,0.7,5598 Filago - via Don Milani   [broken: 28.1/40 Biossido di Azoto 96/0/8670],45.6338645090807,9.55608425579086
+6761,ok,0.2,6761 Brescia - Broletto   [ok: 43.3/200 Biossido di Azoto 1/0/0],45.5400578469714,10.2228184492742
+6764,ok,0.1,6764 Brescia - Broletto   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.5400578469714,10.2228184492742
+6936,broken,"","",45.6205556793956,9.61173782181237
+10176,broken,2.4,10176 Schivenoglia   [broken: 43.0/18 Particelle sospese PM2.5 1/0/26297],45.0168778207554,11.0760946326405
+5842,ok,0.1,5842 Bormio   [ok: 1.3/10 Monossido di Carbonio 8/0/0],46.4695239713259,10.375432759159
+6899,ok,0.0,6899 Mantova - Lunetta 2   [ok: 3.7/350 Biossido di Zolfo 1/0/0],45.1579852781893,10.8239314339681
+9985,broken,1.5,9985 Lodi - viale Vignati   [broken: 26.5/18 Particelle sospese PM2.5 4/0/26294],45.3060129875238,9.48526286320174
+10458,broken,0.6,10458 Bertonico   [broken: 23.0/40 Biossido di Azoto 95/0/8671],45.2334936413037,9.66625037529603
+5724,ok,0.1,5724 Trezzo d`Adda   [ok: 7.9/120 Ozono 8/0/0],45.6136917587774,9.50812248390592
+6376,air pollution,1.4,6376 Chiavenna   [air pollution: 27.2/20 Ossidi di Azoto 3/0/0],46.3208034978265,9.3955909132574
+9915,broken,2.9,9915 Seriate   [broken: 53.0/18 Particelle sospese PM2.5 4/0/26294],45.6863560643991,9.71494791763153
+9965,broken,"","",45.4982271339449,9.55623226235176
+10020,ok,0.0,10020 Calusco d' Adda   [ok: 3.8/350 Biossido di Zolfo 1/0/0],45.6904290785451,9.48426092764779
+12620,broken,0.2,12620 Meda   [broken: 1.1/6 Arsenico 1/0/8765],45.6617621918917,9.1566439845516
+12637,broken,"","",45.470499014097,9.19746036011253
+6298,air pollution,4.5,6298 Cinisello Balsamo   [air pollution: 89.6/20 Ossidi di Azoto 3/0/0],45.5523257874121,9.22776423327263
+10079,broken,0.4,10079 Ponti sul Mincio   [broken: 15.3/40 Biossido di Azoto 96/0/8670],45.4127716916863,10.6833573437868
+5562,ok,0.2,5562 Somma Lombardo - MXP   [ok: 41.9/200 Biossido di Azoto 1/0/0],45.6495371272924,8.71269145828479
+5953,broken,0.7,5953 Cremona - p.zza Cadorna   [broken: 29.9/40 Biossido di Azoto 96/0/8670],45.1319469128517,10.015741513336
+6204,air pollution,4.7,6204 Treviglio   [air pollution: 93.0/20 Ossidi di Azoto 3/0/0],45.5193349813872,9.59200999488843
+6254,air pollution,4.4,6254 Nibionno   [air pollution: 88.1/20 Ossidi di Azoto 3/0/0],45.7511112616178,9.26502096480554
+10167,ok,0.1,10167 Schivenoglia   [ok: 24.3/200 Biossido di Azoto 1/0/0],45.0168778207554,11.0760946326405
+5544,ok,0.3,5544 Limbiate   [ok: 59.3/200 Biossido di Azoto 1/0/0],45.5974434982303,9.12594894247239
+6326,air pollution,2.1,6326 Magenta   [air pollution: 42.6/20 Ossidi di Azoto 3/0/0],45.4624157911066,8.88021043312557
+6826,broken,0.6,6826 Lonato   [broken: 24.9/40 Biossido di Azoto 96/0/8670],45.4637531362103,10.4807720435713
+6872,ok,0.0,6872 Mantova - via Ariosto   [ok: 4.0/125 Biossido di Zolfo 24/0/0],45.145260125789,10.8033259500793
+9899,ok,0.0,9899 Casirate d`Adda   [ok: 4.0/120 Ozono 8/0/0],45.4982271339449,9.55623226235176
+10083,broken,"","",45.4127716916863,10.6833573437868
+10282,ok,0.0,10282 Milano - Pascal Città Studi   [ok: 5.8/120 Ozono 8/0/0],45.4789960616874,9.2354910384975
+5715,ok,0.1,5715 Legnano   [ok: 8.6/120 Ozono 8/0/0],45.5961339321329,8.91881399306327
+5837,ok,0.1,5837 Trezzo d`Adda   [ok: 0.9/10 Monossido di Carbonio 8/0/0],45.6136917587774,9.50812248390592
+6817,air pollution,2.2,6817 Gambara   [air pollution: 43.6/20 Ossidi di Azoto 3/0/0],45.2495436247462,10.2991194960641
+10479,broken,1.5,10479 Turano   [broken: 26.8/18 Particelle sospese PM2.5 4/0/26294],45.2502830891846,9.62125819274314
+12598,broken,0.0,12598 Casirate d`Adda   [broken: 6.3/500 Piombo 1/0/8765],45.4982271339449,9.55623226235176
+5598,ok,0.2,5598 Filago - via Don Milani   [ok: 36.9/200 Biossido di Azoto 1/0/0],45.6338645090807,9.55608425579086
+6919,broken,"","",45.8150428601129,9.06697137484454
+9972,ok,0.1,9972 Valmadrera   [ok: 6.8/120 Ozono 8/0/0],45.8422072610225,9.35165816612796
+10013,broken,2.7,10013 Merate   [broken: 47.8/18 Particelle sospese PM2.5 4/0/26294],45.6979519897024,9.4061909386866
+5507,broken,1.1,5507 Sesto S.Giovanni   [broken: 44.8/40 Biossido di Azoto 96/0/8670],45.5347657650922,9.23610792341164
+5538,ok,0.1,5538 Lacchiarella   [ok: 27.3/200 Biossido di Azoto 1/0/0],45.3245174128473,9.13451726419928
+5539,broken,1.1,5539 Arese   [broken: 44.1/40 Biossido di Azoto 96/0/8670],45.5434332545016,9.08072583128464
+5595,broken,1.0,5595 Treviglio   [broken: 39.6/40 Biossido di Azoto 96/0/8670],45.5193349813872,9.59200999488843
+5717,ok,0.1,5717 Limito   [ok: 7.0/120 Ozono 8/0/0],45.4836303532325,9.32736003321515
+10036,broken,0.2,10036 Voghera - via Pozzoni   [broken: 0.8/5 Benzene 4/0/8762],44.9995459891403,9.00843738181569
+10437,ok,0.0,10437 Sondrio - via Paribelli   [ok: 1.9/120 Ozono 8/0/0],46.1678524406651,9.8792099244699
+12579,broken,"","",45.1095393802722,10.0692307349565
+5577,ok,0.3,5577 Lecco - Via Amendola   [ok: 58.4/200 Biossido di Azoto 1/0/0],45.8501911945785,9.39557706689322
+9900,ok,0.0,9900 Cassano d`Adda - Via di Vona   [ok: 1.5/120 Ozono 8/0/0],45.5200086703217,9.51222096894355
+12587,ok,"","",45.1095393802722,10.0692307349565
+5533,broken,0.8,5533 Agrate   [broken: 32.0/40 Biossido di Azoto 96/0/8670],45.5757847592281,9.3541056508192
+5550,ok,"","",45.4995836904834,9.24732688950765
+6252,air pollution,6.7,6252 Merate   [air pollution: 133.7/20 Ossidi di Azoto 3/0/0],45.6979519897024,9.4061909386866
+6280,air pollution,2.2,6280 Tavazzano   [air pollution: 44.6/20 Ossidi di Azoto 3/0/0],45.3303610018123,9.41464472662726
+6411,ok,0.1,6411 Cremona - p.zza Cadorna   [ok: 0.6/10 Monossido di Carbonio 8/0/0],45.1319469128517,10.015741513336
+10005,broken,0.7,10005 Truccazzano   [broken: 28.0/40 Biossido di Azoto 96/0/8670],45.48455813668,9.47134838897473
+10016,ok,0.0,10016 Mantova - p.zza Gramsci   [ok: 5.1/125 Biossido di Zolfo 24/0/0],45.1517433795766,10.7814077000957
+10119,ok,0.1,10119 Magnacavallo   [ok: 29.9/200 Biossido di Azoto 1/0/0],45.0051415213483,11.1783880872139
+6274,air pollution,1.5,6274 S.Rocco al Porto   [air pollution: 30.2/20 Ossidi di Azoto 3/0/0],45.0819866969786,9.70078817718398
+9996,air pollution,1.3,9996 Ferrera Erbognone - ENI   [air pollution: 25.1/20 Ossidi di Azoto 3/0/0],45.1135031448296,8.87406484888261
+10001,air pollution,6.3,10001 Cassano d'Adda 2 - Via Milano   [air pollution: 126.6/20 Ossidi di Azoto 3/0/0],45.526472545851,9.5159804836271
+10098,ok,0.0,10098 Borgofranco - loc. Bonizzo   [ok: 5.1/125 Biossido di Zolfo 24/0/0],45.0465015381674,11.1809358191275
+5676,ok,0.0,5676 Como - viale Cattaneo   [ok: 1.0/125 Biossido di Zolfo 24/0/0],45.8150428601129,9.06697137484454
+6304,air pollution,1.5,6304 Cuggiono   [air pollution: 30.2/20 Ossidi di Azoto 3/0/0],45.5014842949991,8.8044537623984
+10474,broken,0.1,10474 Turano   [broken: 0.6/5 Benzene 4/0/8762],45.2502830891846,9.62125819274314
+10516,ok,0.0,10516 Mantova - Tridolino   [ok: 5.3/350 Biossido di Zolfo 1/0/0],45.1533195857856,10.8592639119623
+9999,ok,0.2,9999 Cassano d'Adda 2 - Via Milano   [ok: 42.4/200 Biossido di Azoto 1/0/0],45.526472545851,9.5159804836271
+30166,broken,0.5,30166 Brescia - via Turati   [broken: 2.7/5 Benzene 4/0/8762],45.539529434956,10.2317859074772
+5504,broken,1.4,5504 Milano - viale Marche   [broken: 56.6/40 Biossido di Azoto 96/0/8670],45.496316443651,9.19093355531362
+6246,air pollution,2.6,6246 Colico   [air pollution: 52.3/20 Ossidi di Azoto 3/0/0],46.1381409051264,9.38468724765179
+6587,ok,0.0,6587 Lecco - Via Amendola   [ok: 2.4/350 Biossido di Zolfo 1/0/0],45.8501911945785,9.39557706689322
+6889,broken,0.4,6889 Marmirolo - Bosco Fontana   [broken: 16.1/40 Biossido di Azoto 96/0/8670],45.2081790393849,10.7426362511732
+10088,ok,0.1,10088 Monzambano - campo sportivo   [ok: 21.5/200 Biossido di Azoto 1/0/0],45.3891535402378,10.6905762650721
+10153,air pollution,1.3,10153 Pieve di Coriano   [air pollution: 25.9/20 Ossidi di Azoto 3/0/0],45.0339428141846,11.1169181095401
+10390,broken,"","",45.6574598250304,8.79757083283147
+10117,air pollution,2.0,10117 Magnacavallo   [air pollution: 39.9/20 Ossidi di Azoto 3/0/0],45.0051415213483,11.1783880872139
+10259,broken,0.5,10259 Sondrio - via Mazzini   [broken: 2.4/5 Benzene 4/0/8762],46.1679668122783,9.87014407497457
+10331,ok,0.1,10331 Vigevano - via Valletta   [ok: 26.7/200 Biossido di Azoto 1/0/0],45.3036078696557,8.84480460996544
+10450,broken,"","",45.8746021098904,10.1773568089814
+12016,air pollution,2.4,12016 Spinadesco   [air pollution: 47.9/20 Ossidi di Azoto 3/0/0],45.1504688698568,9.93059647227233
+12596,broken,0.2,12596 Casirate d`Adda   [broken: 1.1/6 Arsenico 1/0/8765],45.4982271339449,9.55623226235176
+5563,ok,0.2,5563 Varese - via Copelli   [ok: 41.0/200 Biossido di Azoto 1/0/0],45.8169732332637,8.82024070715821
+6945,broken,"","",45.2839771544676,9.86339841999363
+6786,broken,1.2,6786 Brescia - via Ziziola   [broken: 47.0/40 Biossido di Azoto 96/0/8670],45.5145591905673,10.2184635028013
+10131,broken,"","",45.0632143616133,11.2092107496994
+10516,ok,0.0,10516 Mantova - Tridolino   [ok: 5.4/125 Biossido di Zolfo 24/0/0],45.1533195857856,10.8592639119623
+5538,broken,0.7,5538 Lacchiarella   [broken: 27.5/40 Biossido di Azoto 96/0/8670],45.3245174128473,9.13451726419928
+5595,ok,0.2,5595 Treviglio   [ok: 41.2/200 Biossido di Azoto 1/0/0],45.5193349813872,9.59200999488843
+5596,ok,0.2,5596 Ciserano   [ok: 37.4/200 Biossido di Azoto 1/0/0],45.5915484295005,9.60612773157576
+5727,ok,0.0,5727 Vimercate   [ok: 3.5/120 Ozono 8/0/0],45.6149208704422,9.36839616178516
+6306,ok,"","",45.4680440793097,8.73676932023362
+6891,ok,0.0,6891 Marmirolo - Bosco Fontana   [ok: 3.9/120 Ozono 8/0/0],45.2081790393849,10.7426362511732
+10016,ok,0.0,10016 Mantova - p.zza Gramsci   [ok: 5.4/350 Biossido di Zolfo 1/0/0],45.1517433795766,10.7814077000957
+12671,broken,1.2,12671 Schivenoglia   [broken: 1.2/1 Benzo(a)pirene 2/0/8764],45.0168778207554,11.0760946326405
+5652,ok,0.1,5652 Busto Arsizio - Accam   [ok: 6.5/125 Biossido di Zolfo 24/0/0],45.5828834261476,8.83448718958336
+6832,ok,"","",45.4637531362103,10.4807720435713
+10074,broken,0.3,10074 Salionze   [broken: 13.6/40 Biossido di Azoto 96/0/8670],45.4033137582129,10.7265979707794
+12626,broken,0.0,12626 Milano - Pascal Città Studi   [broken: 0.2/5 Cadmio 1/0/8765],45.4789960616874,9.2354910384975
+17037,broken,1.8,17037 Bergamo - via Meucci   [broken: 1.8/1 Benzo(a)pirene 1/0/8765],45.6910374054721,9.64365057946139
+5725,ok,0.0,5725 Milano - Verziere   [ok: 2.9/120 Ozono 8/0/0],45.4633467406666,9.19532480766886
+5548,ok,0.1,5548 Motta Visconti (aria)   [ok: 18.5/200 Biossido di Azoto 1/0/0],45.2819561974278,8.98856272679326
+5693,ok,0.0,5693 Lodi - viale Vignati   [ok: 2.5/125 Biossido di Zolfo 24/0/0],45.3060129875238,9.48526286320174
+17041,broken,0.0,17041 Bergamo - via Meucci   [broken: 18.9/500 Piombo 1/0/8765],45.6910374054721,9.64365057946139
+5594,broken,1.2,5594 Seriate   [broken: 46.2/40 Biossido di Azoto 96/0/8670],45.6863560643991,9.71494791763153
+5658,ok,0.0,5658 Varese - Vidoletti   [ok: 1.7/125 Biossido di Zolfo 24/0/0],45.8369007765555,8.80392612667495
+6665,ok,0.1,6665 Cantù - via Meucci   [ok: 7.7/120 Ozono 8/0/0],45.7308367226743,9.12573432702293
+9882,broken,0.1,9882 Monza - via Machiavelli   [broken: 7.8/120 Ozono 1/0/7],45.5802634844224,9.27357309271327
+5573,ok,0.1,5573 Tirano - viale Italia   [ok: 23.3/200 Biossido di Azoto 1/0/0],46.2177462143941,10.1564702321463
+6230,air pollution,4.6,6230 Cantù - via Meucci   [air pollution: 92.4/20 Ossidi di Azoto 3/0/0],45.7308367226743,9.12573432702293
+6686,ok,0.0,6686 Pavia - via Folperti   [ok: 0.7/350 Biossido di Zolfo 1/0/0],45.1946760990779,9.16463830063009
+6879,ok,0.1,6879 Mantova - p.zza Gramsci   [ok: 1.3/10 Monossido di Carbonio 8/0/0],45.1517433795766,10.7814077000957
+10020,ok,0.0,10020 Calusco d' Adda   [ok: 3.4/125 Biossido di Zolfo 24/0/0],45.6904290785451,9.48426092764779
+12622,broken,0.0,12622 Meda   [broken: 10.5/500 Piombo 1/0/8765],45.6617621918917,9.1566439845516
+5607,ok,0.2,5607 Tavazzano   [ok: 30.7/200 Biossido di Azoto 1/0/0],45.3303610018123,9.41464472662726
+10275,broken,0.3,10275 Moggio   [broken: 10.3/40 Biossido di Azoto 96/0/8670],45.9127875203029,9.49753816765342
+12590,broken,"","",45.5130388186538,10.1919418887793
+5844,ok,0.1,5844 Morbegno - via Cortivacci   [ok: 1.4/10 Monossido di Carbonio 8/0/0],46.1322829600037,9.56617989398447
+5952,ok,0.0,5952 Corte de Cortesi   [ok: 4.7/120 Ozono 8/0/0],45.2784875547884,10.0062023912043
+5959,ok,0.0,5959 Crema - via XI febbraio   [ok: 1.4/125 Biossido di Zolfo 24/0/0],45.3663090781943,9.70394551361317
+10041,ok,0.0,10041 Ferno   [ok: 4.9/120 Ozono 8/0/0],45.6192437799476,8.75697044545343
+6400,air pollution,4.0,6400 Varese - via Copelli   [air pollution: 79.8/20 Ossidi di Azoto 3/0/0],45.8169732332637,8.82024070715821
+6911,broken,"","",45.6149208704422,9.36839616178516
+9802,broken,0.6,9802 Mantova - S.Agnese   [broken: 22.7/40 Biossido di Azoto 96/0/8670],45.1605683301058,10.7955641137079
+9860,air pollution,2.3,9860 Voghera - via Pozzoni   [air pollution: 45.7/20 Ossidi di Azoto 3/0/0],44.9995459891403,9.00843738181569
+17038,broken,0.2,17038 Bergamo - via Meucci   [broken: 1.1/6 Arsenico 1/0/8765],45.6910374054721,9.64365057946139
+5534,ok,0.2,5534 Limito   [ok: 44.7/200 Biossido di Azoto 1/0/0],45.4836303532325,9.32736003321515
+5600,ok,0.2,5600 Lallio   [ok: 46.9/200 Biossido di Azoto 1/0/0],45.6596639179285,9.61856876125757
+5710,ok,0.1,5710 Cormano   [ok: 15.7/120 Ozono 8/0/0],45.5510419443724,9.16261365315132
+5728,ok,0.0,5728 Bergamo - via Goisis   [ok: 4.2/120 Ozono 8/0/0],45.7159124698522,9.68895874530976
+6781,broken,1.4,6781 Brescia - via Turati   [broken: 54.9/40 Biossido di Azoto 96/0/8670],45.539529434956,10.2317859074772
+10169,ok,0.1,10169 Schivenoglia   [ok: 1.3/10 Monossido di Carbonio 8/0/0],45.0168778207554,11.0760946326405
+5506,broken,1.4,5506 Milano - P.zza  Zavattari   [broken: 57.5/40 Biossido di Azoto 96/0/8670],45.4760634050979,9.14178626718666
+5519,broken,1.0,5519 Robecchetto   [broken: 39.6/40 Biossido di Azoto 96/0/8670],45.5178221900884,8.76656210924496
+6294,ok,"","",45.6720247340785,9.23459166178805
+10405,broken,"","",45.6956803443269,9.66124914606551
+12685,broken,0.2,12685 Soresina   [broken: 1.1/6 Arsenico 1/0/8765],45.2839771544676,9.86339841999363
+5567,broken,1.0,5567 Erba - via Battisti   [broken: 39.9/40 Biossido di Azoto 96/0/8670],45.808573806923,9.22177920448844
+5578,ok,0.2,5578 Nibionno   [ok: 32.3/200 Biossido di Azoto 1/0/0],45.7511112616178,9.26502096480554
+6328,air pollution,4.5,6328 Milano - viale Marche   [air pollution: 89.4/20 Ossidi di Azoto 3/0/0],45.496316443651,9.19093355531362
+6803,air pollution,3.8,6803 Sarezzo - via Minelli   [air pollution: 76.8/20 Ossidi di Azoto 3/0/0],45.6496267122407,10.205090218837
+6872,ok,0.0,6872 Mantova - via Ariosto   [ok: 3.9/350 Biossido di Zolfo 1/0/0],45.145260125789,10.8033259500793
+9802,ok,0.1,9802 Mantova - S.Agnese   [ok: 26.2/200 Biossido di Azoto 1/0/0],45.1605683301058,10.7955641137079
+10078,air pollution,1.3,10078 Ponti sul Mincio   [air pollution: 25.7/20 Ossidi di Azoto 3/0/0],45.4127716916863,10.6833573437868
+5506,ok,0.3,5506 Milano - P.zza  Zavattari   [ok: 50.8/200 Biossido di Azoto 1/0/0],45.4760634050979,9.14178626718666
+5515,ok,"","",45.6720247340785,9.23459166178805
+5820,ok,0.1,5820 Corsico   [ok: 1.2/10 Monossido di Carbonio 8/0/0],45.4361085100991,9.09741084187147
+10320,broken,"","",45.470499014097,9.19746036011253
+5533,ok,0.2,5533 Agrate   [ok: 30.6/200 Biossido di Azoto 1/0/0],45.5757847592281,9.3541056508192
+5622,ok,0.0,5622 Galliate   [ok: 12.1/350 Biossido di Zolfo 1/0/0],45.4680440793097,8.73676932023362
+5636,broken,"","",45.5098522667925,9.08997202033733
+5797,ok,0.1,5797 Cantù - via Meucci   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.7308367226743,9.12573432702293
+6242,air pollution,3.3,6242 Calolziocorte   [air pollution: 65.5/20 Ossidi di Azoto 3/0/0],45.8020955051409,9.42946732027788
+9928,ok,0.2,9928 Cremona - Via Fatebenefratelli   [ok: 34.4/200 Biossido di Azoto 1/0/0],45.142540632217,10.0438361583694
+10335,broken,"","",45.3036078696557,8.84480460996544
+10477,ok,0.1,10477 Turano   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.2502830891846,9.62125819274314
+12619,broken,0.1,12619 Meda   [broken: 2.1/20 Nikel 1/0/8765],45.6617621918917,9.1566439845516
+30129,broken,"","",45.1297932236774,10.3798316685224
+5562,broken,1.3,5562 Somma Lombardo - MXP   [broken: 51.7/40 Biossido di Azoto 96/0/8670],45.6495371272924,8.71269145828479
+6864,air pollution,2.9,6864 Rezzato   [air pollution: 58.4/20 Ossidi di Azoto 3/0/0],45.5157082948446,10.3362404229965
+6871,broken,0.4,6871 Mantova - via Ariosto   [broken: 14.8/40 Biossido di Azoto 96/0/8670],45.145260125789,10.8033259500793
+10431,air pollution,3.0,10431 Sondrio - via Paribelli   [air pollution: 60.2/20 Ossidi di Azoto 3/0/0],46.1678524406651,9.8792099244699
+12607,broken,0.1,12607 Magenta   [broken: 2.1/20 Nikel 1/0/8765],45.4624157911066,8.88021043312557
+12621,broken,0.0,12621 Meda   [broken: 0.2/5 Cadmio 1/0/8765],45.6617621918917,9.1566439845516
+17163,broken,0.5,17163 Darfo (aria)   [broken: 2.5/5 Benzene 4/0/8762],45.8746021098904,10.1773568089814
+5841,ok,0.2,5841 Milano - P.zza  Zavattari   [ok: 1.7/10 Monossido di Carbonio 8/0/0],45.4760634050979,9.14178626718666
+9919,air pollution,2.1,9919 Porto Mantovano   [air pollution: 41.2/20 Ossidi di Azoto 3/0/0],45.1955400901703,10.7972622986903
+10006,ok,0.0,10006 Truccazzano   [ok: 4.2/350 Biossido di Zolfo 1/0/0],45.48455813668,9.47134838897473
+5561,broken,1.0,5561 Busto Arsizio - Accam   [broken: 40.1/40 Biossido di Azoto 96/0/8670],45.5828834261476,8.83448718958336
+5831,ok,0.2,5831 Pero   [ok: 2.2/10 Monossido di Carbonio 8/0/0],45.5098522667925,9.08997202033733
+12584,broken,"","",45.1319469128517,10.015741513336
+12581,ok,0.1,12581 Cremona - via Gerre Borghi   [ok: 6.2/120 Ozono 8/0/0],45.1095393802722,10.0692307349565
+12693,broken,0.0,12693 Varese - via Copelli   [broken: 6.3/500 Piombo 1/0/8765],45.8169732332637,8.82024070715821
+5518,ok,0.2,5518 Pero   [ok: 38.0/200 Biossido di Azoto 1/0/0],45.5098522667925,9.08997202033733
+5963,ok,0.1,5963 Piadena   [ok: 27.4/200 Biossido di Azoto 1/0/0],45.1297932236774,10.3798316685224
+5722,ok,0.0,5722 Milano - Parco Lambro   [ok: 3.0/120 Ozono 8/0/0],45.4995836904834,9.24732688950765
+5790,ok,0.1,5790 Treviglio   [ok: 0.5/10 Monossido di Carbonio 8/0/0],45.5193349813872,9.59200999488843
+6290,air pollution,3.9,6290 Arese   [air pollution: 77.1/20 Ossidi di Azoto 3/0/0],45.5434332545016,9.08072583128464
+6685,ok,0.2,6685 Pavia - via Folperti   [ok: 30.1/200 Biossido di Azoto 1/0/0],45.1946760990779,9.16463830063009
+10300,ok,0.0,10300 Ospitaletto   [ok: 0.3/10 Monossido di Carbonio 8/0/0],45.5532513997544,10.0849161439684
+5541,broken,1.0,5541 Settimo Milanese   [broken: 38.3/40 Biossido di Azoto 96/0/8670],45.4802687855546,9.05686203175973
+5575,ok,0.1,5575 Morbegno - via Cortivacci   [ok: 17.9/200 Biossido di Azoto 1/0/0],46.1322829600037,9.56617989398447
+5604,broken,0.5,5604 Montanaso   [broken: 21.3/40 Biossido di Azoto 96/0/8670],45.336131009052,9.45255388178171
+5847,ok,0.1,5847 Busto Arsizio - Accam   [ok: 0.7/10 Monossido di Carbonio 8/0/0],45.5828834261476,8.83448718958336
+10336,broken,"","",45.3036078696557,8.84480460996544
+10407,broken,0.9,10407 Villa di Serio   [broken: 37.9/40 Biossido di Azoto 96/0/8670],45.7358914453284,9.73839478804344
+5552,broken,0.7,5552 Milano - P.zza Abbiategrasso   [broken: 29.8/40 Biossido di Azoto 96/0/8670],45.4321973057331,9.18213891908094
+5564,ok,0.2,5564 Como - viale Cattaneo   [ok: 49.0/200 Biossido di Azoto 1/0/0],45.8150428601129,9.06697137484454
+5742,ok,0.2,5742 Morbegno - via Cortivacci   [ok: 19.6/120 Ozono 8/0/0],46.1322829600037,9.56617989398447
+9835,broken,"","",45.1517433795766,10.7814077000957
+5711,ok,0.1,5711 Corsico   [ok: 7.8/120 Ozono 8/0/0],45.4361085100991,9.09741084187147
+5958,ok,0.1,5958 Crema - via XI febbraio   [ok: 27.3/200 Biossido di Azoto 1/0/0],45.3663090781943,9.70394551361317
+6884,ok,0.0,6884 Viadana   [ok: 5.5/120 Ozono 8/0/0],44.9246940495507,10.5175020671178
+9877,broken,"","",45.5802634844224,9.27357309271327
+10035,broken,0.3,10035 Cornale (Voghera Energia)   [broken: 1.3/5 Benzene 4/0/8762],45.0400765720296,8.91414459900241
+10070,ok,0.0,10070 Sannazzaro de' Burgondi - AGIP   [ok: 4.1/350 Biossido di Zolfo 1/0/0],45.1027662768414,8.90417452771467
+12675,broken,0.1,12675 Sondrio - via Paribelli   [broken: 0.6/5 Cadmio 1/0/8765],46.1678524406651,9.8792099244699
+5554,broken,0.8,5554 Arconate (aria)   [broken: 31.3/40 Biossido di Azoto 96/0/8670],45.5485173574195,8.84732192921626
+5599,ok,0.2,5599 Osio Sotto   [ok: 38.0/200 Biossido di Azoto 1/0/0],45.6205556793956,9.61173782181237
+5610,ok,0.2,5610 Abbadia Cerreto   [ok: 32.7/200 Biossido di Azoto 1/0/0],45.3095022692823,9.58579041612041
+6220,air pollution,7.0,6220 Bergamo - via Garibaldi   [air pollution: 140.0/20 Ossidi di Azoto 3/0/0],45.6956803443269,9.66124914606551
+10095,air pollution,1.9,10095 Borgofranco - loc. Bonizzo   [air pollution: 38.0/20 Ossidi di Azoto 3/0/0],45.0465015381674,11.1809358191275
+10326,broken,0.7,10326 Parona   [broken: 26.9/40 Biossido di Azoto 96/0/8670],45.2819356103579,8.75433459453983
+5512,broken,0.5,5512 Rivolta d` Adda - via Beccaria   [broken: 19.7/40 Biossido di Azoto 96/0/8670],45.4685530169473,9.51134533383752
+5513,ok,"","",45.539768856661,9.48688536743615
+5835,ok,0.2,5835 Sesto S.Giovanni   [ok: 1.8/10 Monossido di Carbonio 8/0/0],45.5347657650922,9.23610792341164
+5580,broken,0.7,5580 Calolziocorte   [broken: 26.5/40 Biossido di Azoto 96/0/8670],45.8020955051409,9.42946732027788
+5664,ok,0.0,5664 Filago - via Fermi   [ok: 1.4/125 Biossido di Zolfo 24/0/0],45.6244564811923,9.55650435031822
+5714,ok,0.1,5714 Lacchiarella   [ok: 8.0/120 Ozono 8/0/0],45.3245174128473,9.13451726419928
+6348,air pollution,2.0,6348 Rivolta d` Adda - via Beccaria   [air pollution: 39.7/20 Ossidi di Azoto 3/0/0],45.4685530169473,9.51134533383752
+10350,ok,0.1,10350 Cuggiono   [ok: 7.4/120 Ozono 8/0/0],45.5014842949991,8.8044537623984
+6228,air pollution,1.2,6228 Tavernola Bergamasca   [air pollution: 24.0/20 Ossidi di Azoto 3/0/0],45.7162999241173,10.0447659993684
+10070,ok,0.0,10070 Sannazzaro de' Burgondi - AGIP   [ok: 4.5/125 Biossido di Zolfo 24/0/0],45.1027662768414,8.90417452771467
+10129,broken,1.5,10129 Melara   [broken: 30.7/20 Ossidi di Azoto 2/0/1],45.0632143616133,11.2092107496994
+30163,ok,0.2,30163 Brescia - Villaggio Sereno   [ok: 33.9/200 Biossido di Azoto 1/0/0],45.5130388186538,10.1919418887793
+5549,ok,0.2,5549 Magenta   [ok: 30.7/200 Biossido di Azoto 1/0/0],45.4624157911066,8.88021043312557
+5574,broken,0.9,5574 Bormio   [broken: 37.2/40 Biossido di Azoto 96/0/8670],46.4695239713259,10.375432759159
+5745,ok,0.0,5745 Gallarate - P.zza S.Lorenzo   [ok: 3.4/120 Ozono 8/0/0],45.6574598250304,8.79757083283147
+6939,broken,"","",45.3060129875238,9.48526286320174
+10119,broken,0.7,10119 Magnacavallo   [broken: 26.1/40 Biossido di Azoto 94/0/8672],45.0051415213483,11.1783880872139
+10286,ok,0.2,10286 Lecco - Via Sora   [ok: 35.3/200 Biossido di Azoto 1/0/0],45.8637488412797,9.39995034468185
+12613,broken,"","",45.1605683301058,10.7955641137079
+12696,broken,0.1,12696 Casirate d`Adda   [broken: 2.1/20 Nikel 1/0/8765],45.4982271339449,9.55623226235176
+5730,ok,0.1,5730 Erba - via Battisti   [ok: 6.5/120 Ozono 8/0/0],45.808573806923,9.22177920448844
+6342,air pollution,3.8,6342 Pero   [air pollution: 76.4/20 Ossidi di Azoto 3/0/0],45.5098522667925,9.08997202033733
+6685,broken,0.6,6685 Pavia - via Folperti   [broken: 25.2/40 Biossido di Azoto 96/0/8670],45.1946760990779,9.16463830063009
+10323,air pollution,2.2,10323 Mortara   [air pollution: 44.9/20 Ossidi di Azoto 3/0/0],45.2547287207888,8.74415437971093
+6284,air pollution,3.9,6284 Abbiategrasso   [air pollution: 78.8/20 Ossidi di Azoto 3/0/0],45.3954044901462,8.91341656677829
+17285,air pollution,5.3,17285 Monza Parco   [air pollution: 105.5/20 Ossidi di Azoto 3/0/0],45.6012321995514,9.27507265782848
+5519,ok,0.2,5519 Robecchetto   [ok: 38.9/200 Biossido di Azoto 1/0/0],45.5178221900884,8.76656210924496
+9859,ok,0.0,9859 Voghera - via Pozzoni   [ok: 0.4/10 Monossido di Carbonio 8/0/0],44.9995459891403,9.00843738181569
+9991,ok,0.5,9991 Moggio   [ok: 55.6/120 Ozono 8/0/0],45.9127875203029,9.49753816765342
+9993,broken,0.5,9993 Ferrera Erbognone - ENI   [broken: 20.1/40 Biossido di Azoto 96/0/8670],45.1135031448296,8.87406484888261
+10159,ok,0.1,10159 Pieve di Coriano   [ok: 8.6/120 Ozono 8/0/0],45.0339428141846,11.1169181095401
+12667,broken,"","",45.0168778207554,11.0760946326405
+17290,broken,"","",45.6012321995514,9.27507265782848
+5543,broken,1.0,5543 Garbagnate   [broken: 41.6/40 Biossido di Azoto 96/0/8670],45.5717162655023,9.07824159056828
+6798,broken,0.9,6798 Sarezzo - via Minelli   [broken: 36.9/40 Biossido di Azoto 96/0/8670],45.6496267122407,10.205090218837
+10346,broken,1.8,10346 Mortara   [broken: 31.5/18 Particelle sospese PM2.5 4/0/26294],45.2547287207888,8.74415437971093
+12627,broken,0.0,12627 Milano - Pascal Città Studi   [broken: 8.4/500 Piombo 1/0/8765],45.4789960616874,9.2354910384975
+5550,broken,"","",45.4995836904834,9.24732688950765
+6690,air pollution,2.4,6690 Pavia - via Folperti   [air pollution: 48.0/20 Ossidi di Azoto 3/0/0],45.1946760990779,9.16463830063009
+6845,air pollution,2.9,6845 Odolo   [air pollution: 58.9/20 Ossidi di Azoto 3/0/0],45.6460496337253,10.389295302792
+6940,broken,"","",45.336131009052,9.45255388178171
+9918,air pollution,2.2,9918 Mantova - p.zza Gramsci   [air pollution: 43.4/20 Ossidi di Azoto 3/0/0],45.1517433795766,10.7814077000957
+9923,ok,0.0,9923 Cremona - Via Fatebenefratelli   [ok: 3.3/125 Biossido di Zolfo 24/0/0],45.142540632217,10.0438361583694
+10507,broken,1.5,10507 Dalmine - via Verdi   [broken: 59.1/40 Biossido di Azoto 94/0/8672],45.6497025123625,9.60122333878526
+5589,ok,0.2,5589 Costa Volpino   [ok: 35.9/200 Biossido di Azoto 1/0/0],45.8271579387626,10.0970617241863
+5965,broken,0.6,5965 Soresina   [broken: 22.7/40 Biossido di Azoto 96/0/8670],45.2839771544676,9.86339841999363
+6384,air pollution,2.3,6384 Tirano - viale Italia   [air pollution: 46.3/20 Ossidi di Azoto 3/0/0],46.2177462143941,10.1564702321463
+9855,air pollution,1.7,9855 Cornale (Voghera Energia)   [air pollution: 33.2/20 Ossidi di Azoto 3/0/0],45.0400765720296,8.91414459900241
+10106,air pollution,1.5,10106 Ceneselli   [air pollution: 30.0/20 Ossidi di Azoto 3/0/0],45.0132567684933,11.3723449480582
+5532,ok,0.2,5532 Cinisello Balsamo   [ok: 40.4/200 Biossido di Azoto 1/0/0],45.5523257874121,9.22776423327263
+5630,ok,0.0,5630 Limito   [ok: 4.4/125 Biossido di Zolfo 24/0/0],45.4836303532325,9.32736003321515
+10352,broken,"","",45.5265508699425,8.73649657837922
+10454,ok,0.1,10454 Lodi - S. Alberto   [ok: 6.3/120 Ozono 8/0/0],45.3027835030958,9.49527369692632
+17284,broken,0.0,17284 Monza Parco   [broken: 6.0/200 Ammoniaca 1/0/23],45.6012321995514,9.27507265782848
+12624,broken,0.1,12624 Milano - Pascal Città Studi   [broken: 2.1/20 Nikel 1/0/8765],45.4789960616874,9.2354910384975
+12694,broken,0.9,12694 Varese - via Copelli   [broken: 0.9/1 Benzo(a)pirene 1/0/8765],45.8169732332637,8.82024070715821
+5575,broken,0.9,5575 Morbegno - via Cortivacci   [broken: 35.8/40 Biossido di Azoto 96/0/8670],46.1322829600037,9.56617989398447
+5646,ok,0.1,5646 Turbigo   [ok: 21.8/350 Biossido di Zolfo 1/0/0],45.5265508699425,8.73649657837922
+5958,broken,0.7,5958 Crema - via XI febbraio   [broken: 26.7/40 Biossido di Azoto 96/0/8670],45.3663090781943,9.70394551361317
+6841,ok,0.2,6841 Odolo   [ok: 31.4/200 Biossido di Azoto 1/0/0],45.6460496337253,10.389295302792
+12585,broken,"","",45.1095393802722,10.0692307349565
+5619,ok,"","",45.5510419443724,9.16261365315132
+6813,ok,0.2,6813 Gambara   [ok: 33.0/200 Biossido di Azoto 1/0/0],45.2495436247462,10.2991194960641
+6826,ok,0.1,6826 Lonato   [ok: 24.9/200 Biossido di Azoto 1/0/0],45.4637531362103,10.4807720435713
+6935,broken,"","",45.5193349813872,9.59200999488843
+10019,ok,0.2,10019 Calusco d' Adda   [ok: 43.1/200 Biossido di Azoto 1/0/0],45.6904290785451,9.48426092764779
+10149,broken,"","",45.073311155732,11.1370340072998
+20216,ok,0.0,20216 Casoni - AGIP   [ok: 6.1/350 Biossido di Zolfo 1/0/0],45.0696586413859,8.86888929943922
+5587,ok,0.3,5587 Bergamo - via Garibaldi   [ok: 60.5/200 Biossido di Azoto 1/0/0],45.6956803443269,9.66124914606551
+5708,ok,0.1,5708 Arese   [ok: 7.4/120 Ozono 8/0/0],45.5434332545016,9.08072583128464
+30160,ok,0.2,30160 Darfo (aria)   [ok: 38.7/200 Biossido di Azoto 1/0/0],45.8746021098904,10.1773568089814
+6320,air pollution,3.2,6320 Milano - viale Liguria   [air pollution: 64.9/20 Ossidi di Azoto 3/0/0],45.4438576535649,9.16794450174268
+6804,ok,0.0,6804 Sarezzo - via Minelli   [ok: 3.5/120 Ozono 8/0/0],45.6496267122407,10.205090218837
+10279,ok,0.2,10279 Milano - Pascal Città Studi   [ok: 43.5/200 Biossido di Azoto 1/0/0],45.4789960616874,9.2354910384975
+12691,broken,0.2,12691 Varese - via Copelli   [broken: 1.1/6 Arsenico 1/0/8765],45.8169732332637,8.82024070715821
+17162,broken,0.7,17162 Moggio   [broken: 12.7/18 Particelle sospese PM2.5 3/1/26294],45.9127875203029,9.49753816765342
+5622,ok,0.1,5622 Galliate   [ok: 11.0/125 Biossido di Zolfo 24/0/0],45.4680440793097,8.73676932023362
+5721,ok,0.1,5721 Motta Visconti (aria)   [ok: 8.9/120 Ozono 8/0/0],45.2819561974278,8.98856272679326
+5814,ok,0.1,5814 Arconate (aria)   [ok: 1.2/10 Monossido di Carbonio 8/0/0],45.5485173574195,8.84732192921626
+6310,ok,"","",45.539768856661,9.48688536743615
+5535,ok,0.1,5535 Cuggiono   [ok: 20.9/200 Biossido di Azoto 1/0/0],45.5014842949991,8.8044537623984
+5670,ok,0.0,5670 Bergamo - via Garibaldi   [ok: 2.5/350 Biossido di Zolfo 1/0/0],45.6956803443269,9.66124914606551
+10141,air pollution,1.9,10141 Ostiglia - via Colombo   [air pollution: 38.9/20 Ossidi di Azoto 3/0/0],45.073311155732,11.1370340072998
+12603,broken,"","",45.8746021098904,10.1773568089814
+5513,broken,"","",45.539768856661,9.48688536743615
+5738,ok,0.0,5738 Abbadia Cerreto   [ok: 3.1/120 Ozono 8/0/0],45.3095022692823,9.58579041612041
+6380,air pollution,1.0,6380 Morbegno - via Cortivacci   [air pollution: 20.1/20 Ossidi di Azoto 3/0/0],46.1322829600037,9.56617989398447
+6394,air pollution,5.3,6394 Somma Lombardo - MXP   [air pollution: 105.8/20 Ossidi di Azoto 3/0/0],45.6495371272924,8.71269145828479
+6781,ok,0.3,6781 Brescia - via Turati   [ok: 55.4/200 Biossido di Azoto 1/0/0],45.539529434956,10.2317859074772
+9967,broken,"","",45.4685530169473,9.51134533383752
+10168,ok,0.1,10168 Schivenoglia   [ok: 8.0/125 Biossido di Zolfo 24/0/0],45.0168778207554,11.0760946326405
+10258,broken,0.1,10258 Corte de Cortesi   [broken: 16.1/200 Ammoniaca 1/0/23],45.2784875547884,10.0062023912043
+6390,air pollution,2.5,6390 Gallarate - P.zza S.Lorenzo   [air pollution: 50.4/20 Ossidi di Azoto 3/0/0],45.6574598250304,8.79757083283147
+6761,broken,1.0,6761 Brescia - Broletto   [broken: 40.9/40 Biossido di Azoto 95/0/8671],45.5400578469714,10.2228184492742
+17159,broken,2.0,17159 Soresina   [broken: 35.3/18 Particelle sospese PM2.5 4/0/26294],45.2839771544676,9.86339841999363
+17293,broken,"","",46.1678524406651,9.8792099244699
+5547,broken,1.2,5547 Cormano   [broken: 47.6/40 Biossido di Azoto 96/0/8670],45.5510419443724,9.16261365315132
+6350,air pollution,2.8,6350 Robecchetto   [air pollution: 56.7/20 Ossidi di Azoto 3/0/0],45.5178221900884,8.76656210924496
+6426,air pollution,1.8,6426 Piadena   [air pollution: 36.3/20 Ossidi di Azoto 3/0/0],45.1297932236774,10.3798316685224
+6701,ok,0.2,6701 Pavia - p.zza Minerva   [ok: 31.5/200 Biossido di Azoto 1/0/0],45.1863290804948,9.14666604128678
+9872,broken,"","",44.9995459891403,9.00843738181569
+10025,ok,0.0,10025 Calusco d' Adda   [ok: 3.4/120 Ozono 8/0/0],45.6904290785451,9.48426092764779
+10028,broken,2.9,10028 Calusco d' Adda   [broken: 51.8/18 Particelle sospese PM2.5 4/0/26294],45.6904290785451,9.48426092764779
+5564,broken,1.2,5564 Como - viale Cattaneo   [broken: 47.7/40 Biossido di Azoto 96/0/8670],45.8150428601129,9.06697137484454
+6790,air pollution,3.9,6790 Brescia - via Ziziola   [air pollution: 77.5/20 Ossidi di Azoto 3/0/0],45.5145591905673,10.2184635028013
+9917,air pollution,2.2,9917 Mantova - via Ariosto   [air pollution: 43.5/20 Ossidi di Azoto 3/0/0],45.145260125789,10.8033259500793
+10171,ok,0.1,10171 Schivenoglia   [ok: 9.7/120 Ozono 8/0/0],45.0168778207554,11.0760946326405
+5664,ok,0.0,5664 Filago - via Fermi   [ok: 1.8/350 Biossido di Zolfo 1/0/0],45.6244564811923,9.55650435031822
+5827,ok,0.2,5827 Milano - viale Marche   [ok: 2.2/10 Monossido di Carbonio 8/0/0],45.496316443651,9.19093355531362
+6818,ok,0.0,6818 Gambara   [ok: 4.4/120 Ozono 8/0/0],45.2495436247462,10.2991194960641
+10273,broken,"","",45.4789960616874,9.2354910384975
+10343,broken,"","",45.2819356103579,8.75433459453983
+5504,ok,0.2,5504 Milano - viale Marche   [ok: 41.1/200 Biossido di Azoto 1/0/0],45.496316443651,9.19093355531362
+6296,air pollution,3.3,6296 Cassano d`Adda - Via di Vona   [air pollution: 65.3/20 Ossidi di Azoto 3/0/0],45.5200086703217,9.51222096894355
+5518,broken,1.1,5518 Pero   [broken: 44.6/40 Biossido di Azoto 96/0/8670],45.5098522667925,9.08997202033733
+6005,broken,0.3,6005 Cremona - p.zza Cadorna   [broken: 1.4/5 Benzene 4/0/8762],45.1319469128517,10.015741513336
+6908,broken,"","",45.4836303532325,9.32736003321515
+10087,broken,0.1,10087 Monzambano - campo sportivo   [broken: 0.6/5 Benzene 4/0/8762],45.3891535402378,10.6905762650721
+10354,broken,"","",45.5178221900884,8.76656210924496
+20020,broken,0.1,20020 Milano - Pascal Città Studi   [broken: 10.9/200 Ammoniaca 1/0/23],45.4789960616874,9.2354910384975
+6931,broken,"","",45.6910374054721,9.64365057946139
+9897,ok,0.1,9897 Casirate d`Adda   [ok: 14.9/200 Biossido di Azoto 1/0/0],45.4982271339449,9.55623226235176
+10038,broken,1.2,10038 Ferno   [broken: 48.4/40 Biossido di Azoto 96/0/8670],45.6192437799476,8.75697044545343
+10511,broken,0.1,10511 Dalmine - via Verdi   [broken: 1.4/10 Monossido di Carbonio 7/0/1],45.6497025123625,9.60122333878526
+5607,broken,0.6,5607 Tavazzano   [broken: 25.5/40 Biossido di Azoto 96/0/8670],45.3303610018123,9.41464472662726
+9873,broken,2.8,9873 Saronno - via Santuario   [broken: 50.0/18 Particelle sospese PM2.5 4/0/26294],45.626218960836,9.04006309067821
+20197,broken,"","",45.0819866969786,9.70078817718398
+5676,ok,0.0,5676 Como - viale Cattaneo   [ok: 0.7/350 Biossido di Zolfo 1/0/0],45.8150428601129,9.06697137484454
+6784,air pollution,11.2,6784 Brescia - via Turati   [air pollution: 223.0/20 Ossidi di Azoto 3/0/0],45.539529434956,10.2317859074772
+6929,broken,"","",45.6979519897024,9.4061909386866
+30163,broken,0.9,30163 Brescia - Villaggio Sereno   [broken: 34.8/40 Biossido di Azoto 96/0/8670],45.5130388186538,10.1919418887793
+5591,broken,0.7,5591 Tavernola Bergamasca   [broken: 28.4/40 Biossido di Azoto 96/0/8670],45.7162999241173,10.0447659993684
+5706,ok,0.1,5706 Agrate   [ok: 6.2/120 Ozono 8/0/0],45.5757847592281,9.3541056508192
+9832,broken,"","",45.1533195857856,10.8592639119623
+10587,broken,0.1,10587 Bertonico   [broken: 10.8/200 Ammoniaca 1/0/23],45.2334936413037,9.66625037529603
+12579,ok,"","",45.1095393802722,10.0692307349565
+5559,broken,0.8,5559 Gallarate - P.zza S.Lorenzo   [broken: 33.7/40 Biossido di Azoto 96/0/8670],45.6574598250304,8.79757083283147
+5636,broken,"","",45.5098522667925,9.08997202033733
+6392,air pollution,2.7,6392 Lonate Pozzolo   [air pollution: 53.5/20 Ossidi di Azoto 3/0/0],45.5940235171086,8.7407965765392
+6841,broken,0.7,6841 Odolo   [broken: 29.5/40 Biossido di Azoto 96/0/8670],45.6460496337253,10.389295302792
+5718,ok,0.1,5718 Magenta   [ok: 7.4/120 Ozono 8/0/0],45.4624157911066,8.88021043312557
+5825,ok,0.1,5825 Limito   [ok: 0.6/10 Monossido di Carbonio 8/0/0],45.4836303532325,9.32736003321515
+6224,air pollution,3.6,6224 Costa Volpino   [air pollution: 71.1/20 Ossidi di Azoto 3/0/0],45.8271579387626,10.0970617241863
+12017,broken,0.7,12017 Spinadesco   [broken: 29.8/40 Biossido di Azoto 96/0/8670],45.1504688698568,9.93059647227233
+20005,broken,"","",45.470499014097,9.19746036011253
+5587,broken,1.3,5587 Bergamo - via Garibaldi   [broken: 51.0/40 Biossido di Azoto 96/0/8670],45.6956803443269,9.66124914606551
+6292,ok,"","",45.545942683674,8.77610458437027
+10029,broken,"","",45.6904290785451,9.48426092764779
+10324,ok,0.0,10324 Mortara   [ok: 4.6/120 Ozono 8/0/0],45.2547287207888,8.74415437971093
+12610,broken,0.0,12610 Magenta   [broken: 8.4/500 Piombo 1/0/8765],45.4624157911066,8.88021043312557
+12690,broken,0.3,12690 Varese - via Copelli   [broken: 6.3/20 Nikel 1/0/8765],45.8169732332637,8.82024070715821
+5560,broken,1.2,5560 Lonate Pozzolo   [broken: 47.3/40 Biossido di Azoto 96/0/8670],45.5940235171086,8.7407965765392
+12593,broken,1.2,12593 Brescia - Villaggio Sereno   [broken: 1.2/1 Benzo(a)pirene 2/0/8764],45.5130388186538,10.1919418887793
+5700,ok,0.0,5700 Bormio   [ok: 1.6/125 Biossido di Zolfo 24/0/0],46.4695239713259,10.375432759159
+6686,ok,0.0,6686 Pavia - via Folperti   [ok: 0.8/125 Biossido di Zolfo 24/0/0],45.1946760990779,9.16463830063009
+12574,broken,1.5,12574 Sannazzaro de' Burgondi - AGIP   [broken: 27.8/18 Particelle sospese PM2.5 4/0/26294],45.1027662768414,8.90417452771467
+5517,ok,"","",45.5234256620035,9.04459987111101
+5735,ok,0.0,5735 Merate   [ok: 3.8/120 Ozono 8/0/0],45.6979519897024,9.4061909386866
+9877,broken,1.7,9877 Monza - via Machiavelli   [broken: 69.6/40 Biossido di Azoto 89/0/8677],45.5802634844224,9.27357309271327
+5511,broken,0.6,5511 Cassano d`Adda - Via di Vona   [broken: 24.5/40 Biossido di Azoto 96/0/8670],45.5200086703217,9.51222096894355
+5677,ok,0.0,5677 Erba - via Battisti   [ok: 1.5/125 Biossido di Zolfo 24/0/0],45.808573806923,9.22177920448844
+5732,ok,0.0,5732 Colico   [ok: 5.2/120 Ozono 8/0/0],46.1381409051264,9.38468724765179
+10027,broken,"","",45.6904290785451,9.48426092764779
+10458,ok,0.1,10458 Bertonico   [ok: 27.3/200 Biossido di Azoto 1/0/0],45.2334936413037,9.66625037529603
+12641,broken,0.5,12641 Milano - via Senato   [broken: 0.5/1 Benzo(a)pirene 1/0/8765],45.470499014097,9.19746036011253
+5552,ok,0.1,5552 Milano - P.zza Abbiategrasso   [ok: 29.9/200 Biossido di Azoto 1/0/0],45.4321973057331,9.18213891908094
+5558,ok,0.2,5558 Busto Arsizio - via Magenta   [ok: 35.6/200 Biossido di Azoto 1/0/0],45.6107360400126,8.85011575209207
+10097,broken,0.7,10097 Borgofranco - loc. Bonizzo   [broken: 27.6/40 Biossido di Azoto 96/0/8670],45.0465015381674,11.1809358191275
+10131,broken,0.6,10131 Melara   [broken: 22.1/40 Biossido di Azoto 93/0/8673],45.0632143616133,11.2092107496994
+12673,broken,0.1,12673 Sondrio - via Paribelli   [broken: 2.1/20 Nikel 1/0/8765],46.1678524406651,9.8792099244699
+5707,ok,0.1,5707 Arconate (aria)   [ok: 8.6/120 Ozono 8/0/0],45.5485173574195,8.84732192921626
+6587,ok,0.0,6587 Lecco - Via Amendola   [ok: 2.6/125 Biossido di Zolfo 24/0/0],45.8501911945785,9.39557706689322
+6880,broken,0.6,6880 Viadana   [broken: 24.7/40 Biossido di Azoto 96/0/8670],44.9246940495507,10.5175020671178
+9963,broken,"","",45.5200086703217,9.51222096894355
+10005,ok,0.1,10005 Truccazzano   [ok: 27.1/200 Biossido di Azoto 1/0/0],45.48455813668,9.47134838897473
+10333,air pollution,1.7,10333 Vigevano - via Valletta   [air pollution: 33.2/20 Ossidi di Azoto 3/0/0],45.3036078696557,8.84480460996544
+5594,ok,0.3,5594 Seriate   [ok: 55.5/200 Biossido di Azoto 1/0/0],45.6863560643991,9.71494791763153
+6374,air pollution,3.1,6374 Bormio   [air pollution: 62.8/20 Ossidi di Azoto 3/0/0],46.4695239713259,10.375432759159
+10280,ok,0.0,10280 Milano - Pascal Città Studi   [ok: 8.1/350 Biossido di Zolfo 1/0/0],45.4789960616874,9.2354910384975
+5557,ok,0.3,5557 Saronno - via Santuario   [ok: 58.6/200 Biossido di Azoto 1/0/0],45.626218960836,9.04006309067821
+12017,ok,0.2,12017 Spinadesco   [ok: 36.3/200 Biossido di Azoto 1/0/0],45.1504688698568,9.93059647227233
+5559,ok,0.2,5559 Gallarate - P.zza S.Lorenzo   [ok: 30.3/200 Biossido di Azoto 1/0/0],45.6574598250304,8.79757083283147
+6302,air pollution,3.8,6302 Corsico   [air pollution: 76.8/20 Ossidi di Azoto 3/0/0],45.4361085100991,9.09741084187147
+6408,air pollution,2.2,6408 Corte de Cortesi   [air pollution: 43.9/20 Ossidi di Azoto 3/0/0],45.2784875547884,10.0062023912043
+10086,air pollution,1.3,10086 Monzambano - campo sportivo   [air pollution: 25.3/20 Ossidi di Azoto 3/0/0],45.3891535402378,10.6905762650721
+5545,broken,1.6,5545 Meda   [broken: 63.9/40 Biossido di Azoto 96/0/8670],45.6617621918917,9.1566439845516
+10283,broken,2.6,10283 Milano - Pascal Città Studi   [broken: 47.5/18 Particelle sospese PM2.5 4/0/26294],45.4789960616874,9.2354910384975
+30159,air pollution,4.5,30159 Darfo (aria)   [air pollution: 89.9/20 Ossidi di Azoto 3/0/0],45.8746021098904,10.1773568089814
+6748,air pollution,3.6,6748 Breno   [air pollution: 71.4/20 Ossidi di Azoto 3/0/0],45.9568305329985,10.3010583394352
+10396,broken,2.7,10396 Monza - via Machiavelli   [broken: 48.0/18 Particelle sospese PM2.5 4/0/26294],45.5802634844224,9.27357309271327
+12629,broken,0.4,12629 Milano - Pascal Città Studi   [broken: 0.4/1 Benzo(a)pirene 1/0/8765],45.4789960616874,9.2354910384975
+12676,broken,8.6,12676 Sondrio - via Paribelli   [broken: 8.6/1 Benzo(a)pirene 1/0/8765],46.1678524406651,9.8792099244699
+5631,ok,"","",45.4624157911066,8.88021043312557
+6300,air pollution,3.9,6300 Cormano   [air pollution: 77.0/20 Ossidi di Azoto 3/0/0],45.5510419443724,9.16261365315132
+6344,air pollution,2.6,6344 Milano - P.zza Abbiategrasso   [air pollution: 51.1/20 Ossidi di Azoto 3/0/0],45.4321973057331,9.18213891908094
+5811,ok,0.1,5811 S.Rocco al Porto   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.0819866969786,9.70078817718398
+6871,ok,0.1,6871 Mantova - via Ariosto   [ok: 13.5/200 Biossido di Azoto 1/0/0],45.145260125789,10.8033259500793
+9854,ok,0.0,9854 Cornale (Voghera Energia)   [ok: 0.3/10 Monossido di Carbonio 8/0/0],45.0400765720296,8.91414459900241
+10018,broken,0.4,10018 Calusco d' Adda   [broken: 2.1/5 Benzene 4/0/8762],45.6904290785451,9.48426092764779
+10584,ok,0.1,10584 Perledo   [ok: 14.7/120 Ozono 8/0/0],46.0158283043838,9.28640920868081
+5597,broken,1.0,5597 Bergamo - via Goisis   [broken: 40.8/40 Biossido di Azoto 96/0/8670],45.7159124698522,9.68895874530976
+6206,air pollution,5.7,6206 Ciserano   [air pollution: 113.5/20 Ossidi di Azoto 3/0/0],45.5915484295005,9.60612773157576
+6402,air pollution,2.3,6402 Varese - Vidoletti   [air pollution: 45.4/20 Ossidi di Azoto 3/0/0],45.8369007765555,8.80392612667495
+10548,broken,"","",45.6497025123625,9.60122333878526
+5611,ok,0.2,5611 Codogno - via Trento   [ok: 34.1/200 Biossido di Azoto 1/0/0],45.1593728023411,9.69814824935254
+6880,ok,0.2,6880 Viadana   [ok: 31.4/200 Biossido di Azoto 1/0/0],44.9246940495507,10.5175020671178
+10004,air pollution,3.1,10004 Truccazzano   [air pollution: 62.3/20 Ossidi di Azoto 3/0/0],45.48455813668,9.47134838897473
+10077,broken,"","",45.4033137582129,10.7265979707794
+10483,broken,"","",45.3027835030958,9.49527369692632
+10581,broken,0.6,10581 Perledo   [broken: 24.8/40 Biossido di Azoto 96/0/8670],46.0158283043838,9.28640920868081
+5599,broken,0.7,5599 Osio Sotto   [broken: 29.6/40 Biossido di Azoto 96/0/8670],45.6205556793956,9.61173782181237
+5665,ok,0.0,5665 Filago - via Don Milani   [ok: 1.0/125 Biossido di Zolfo 24/0/0],45.6338645090807,9.55608425579086
+5810,ok,0.1,5810 Melegnano   [ok: 1.3/10 Monossido di Carbonio 8/0/0],45.35428575071,9.32924342411371
+10507,ok,0.3,10507 Dalmine - via Verdi   [ok: 67.6/200 Biossido di Azoto 1/0/0],45.6497025123625,9.60122333878526
+5603,ok,0.2,5603 Lodi - viale Vignati   [ok: 34.3/200 Biossido di Azoto 1/0/0],45.3060129875238,9.48526286320174
+5959,ok,0.0,5959 Crema - via XI febbraio   [ok: 1.3/350 Biossido di Zolfo 1/0/0],45.3663090781943,9.70394551361317
+10073,air pollution,1.2,10073 Salionze   [air pollution: 24.0/20 Ossidi di Azoto 3/0/0],45.4033137582129,10.7265979707794
+10449,broken,2.5,10449 Varese - via Copelli   [broken: 44.3/18 Particelle sospese PM2.5 4/0/26294],45.8169732332637,8.82024070715821
+10432,ok,0.2,10432 Sondrio - via Paribelli   [ok: 31.1/200 Biossido di Azoto 1/0/0],46.1678524406651,9.8792099244699
+12604,broken,"","",45.8746021098904,10.1773568089814
+12614,broken,"","",45.1605683301058,10.7955641137079
+5716,ok,0.0,5716 Limbiate   [ok: 2.3/120 Ozono 8/0/0],45.5974434982303,9.12594894247239
+10038,ok,0.2,10038 Ferno   [ok: 43.4/200 Biossido di Azoto 1/0/0],45.6192437799476,8.75697044545343
+10096,broken,0.3,10096 Borgofranco - loc. Bonizzo   [broken: 1.4/5 Benzene 4/0/8762],45.0465015381674,11.1809358191275
+10165,air pollution,1.6,10165 Schivenoglia   [air pollution: 31.1/20 Ossidi di Azoto 3/0/0],45.0168778207554,11.0760946326405
+10438,broken,2.6,10438 Sondrio - via Paribelli   [broken: 46.0/18 Particelle sospese PM2.5 4/0/26294],46.1678524406651,9.8792099244699
+5546,ok,0.2,5546 Vimercate   [ok: 45.7/200 Biossido di Azoto 1/0/0],45.6149208704422,9.36839616178516
+5576,ok,0.2,5576 Colico   [ok: 32.7/200 Biossido di Azoto 1/0/0],46.1381409051264,9.38468724765179
+10085,broken,2.2,10085 Ponti sul Mincio   [broken: 40.0/18 Particelle sospese PM2.5 4/0/26294],45.4127716916863,10.6833573437868
+10463,ok,0.0,10463 Bertonico   [ok: 4.3/120 Ozono 8/0/0],45.2334936413037,9.66625037529603
+5541,ok,0.2,5541 Settimo Milanese   [ok: 30.4/200 Biossido di Azoto 1/0/0],45.4802687855546,9.05686203175973
+5698,ok,"","",45.3303610018123,9.41464472662726
+5823,ok,0.1,5823 Milano - viale Liguria   [ok: 1.2/10 Monossido di Carbonio 8/0/0],45.4438576535649,9.16794450174268
+6210,air pollution,4.0,6210 Bergamo - via Goisis   [air pollution: 80.7/20 Ossidi di Azoto 3/0/0],45.7159124698522,9.68895874530976
+9896,air pollution,2.5,9896 Casirate d`Adda   [air pollution: 50.9/20 Ossidi di Azoto 3/0/0],45.4982271339449,9.55623226235176
+10168,ok,0.0,10168 Schivenoglia   [ok: 3.8/350 Biossido di Zolfo 1/0/0],45.0168778207554,11.0760946326405
+10197,broken,1.8,10197 Borgofranco - loc. Bonizzo   [broken: 33.0/18 Particelle sospese PM2.5 4/0/26294],45.0465015381674,11.1809358191275
+5652,ok,0.0,5652 Busto Arsizio - Accam   [ok: 5.9/350 Biossido di Zolfo 1/0/0],45.5828834261476,8.83448718958336
+6885,ok,0.1,6885 Porto Mantovano   [ok: 26.3/200 Biossido di Azoto 1/0/0],45.1955400901703,10.7972622986903
+6898,broken,0.6,6898 Mantova - Lunetta 2   [broken: 22.6/40 Biossido di Azoto 96/0/8670],45.1579852781893,10.8239314339681
+9924,ok,0.1,9924 Cremona - Via Fatebenefratelli   [ok: 0.6/10 Monossido di Carbonio 8/0/0],45.142540632217,10.0438361583694
+10399,broken,2.7,10399 Bergamo - via Meucci   [broken: 47.8/18 Particelle sospese PM2.5 4/0/26294],45.6910374054721,9.64365057946139
+20042,broken,0.0,20042 Schivenoglia   [broken: 8.1/200 Ammoniaca 1/0/23],45.0168778207554,11.0760946326405
+5558,broken,1.1,5558 Busto Arsizio - via Magenta   [broken: 42.1/40 Biossido di Azoto 96/0/8670],45.6107360400126,8.85011575209207
+20154,ok,0.1,20154 Casoni - AGIP   [ok: 10.6/120 Ozono 8/0/0],45.0696586413859,8.86888929943922
+29041,broken,0.7,29041 Como - viale Cattaneo   [broken: 3.7/5 Benzene 4/0/8762],45.8150428601129,9.06697137484454
+9998,broken,0.4,9998 Cassano d'Adda 2 - Via Milano   [broken: 2.0/5 Benzene 4/0/8762],45.526472545851,9.5159804836271
+10108,ok,0.1,10108 Ceneselli   [ok: 23.5/200 Biossido di Azoto 1/0/0],45.0132567684933,11.3723449480582
+10327,ok,0.0,10327 Parona   [ok: 2.4/350 Biossido di Zolfo 1/0/0],45.2819356103579,8.75433459453983
+10475,ok,0.1,10475 Turano   [ok: 29.3/200 Biossido di Azoto 1/0/0],45.2502830891846,9.62125819274314
+6952,broken,"","",45.6496267122407,10.205090218837
+10580,ok,0.0,10580 Cremona - p.zza Cadorna   [ok: 1.1/350 Biossido di Zolfo 1/0/0],45.1319469128517,10.015741513336
+12601,broken,"","",45.8746021098904,10.1773568089814
+5740,ok,0.1,5740 Chiavenna   [ok: 11.9/120 Ozono 8/0/0],46.3208034978265,9.3955909132574
+6877,ok,0.1,6877 Mantova - p.zza Gramsci   [ok: 26.5/200 Biossido di Azoto 1/0/0],45.1517433795766,10.7814077000957
+10006,ok,0.0,10006 Truccazzano   [ok: 4.4/125 Biossido di Zolfo 24/0/0],45.48455813668,9.47134838897473
+10185,broken,"","",45.0046137311141,11.2940147077068
+10406,air pollution,4.8,10406 Villa di Serio   [air pollution: 95.4/20 Ossidi di Azoto 3/0/0],45.7358914453284,9.73839478804344
+5606,ok,0.1,5606 Castiraga   [ok: 27.8/200 Biossido di Azoto 1/0/0],45.2623251999215,9.40028132306792
+5794,ok,0.1,5794 Bergamo - via Garibaldi   [ok: 1.1/10 Monossido di Carbonio 8/0/0],45.6956803443269,9.66124914606551
+9995,ok,0.0,9995 Ferrera Erbognone - ENI   [ok: 0.4/10 Monossido di Carbonio 8/0/0],45.1135031448296,8.87406484888261
+10321,ok,0.2,10321 Mortara   [ok: 31.7/200 Biossido di Azoto 1/0/0],45.2547287207888,8.74415437971093
+10339,broken,"","",45.3663090781943,9.70394551361317
+5568,ok,0.2,5568 Cantù - via Meucci   [ok: 45.1/200 Biossido di Azoto 1/0/0],45.7308367226743,9.12573432702293
+5589,broken,0.9,5589 Costa Volpino   [broken: 35.9/40 Biossido di Azoto 96/0/8670],45.8271579387626,10.0970617241863
+6899,ok,0.0,6899 Mantova - Lunetta 2   [ok: 3.7/125 Biossido di Zolfo 24/0/0],45.1579852781893,10.8239314339681
+6937,broken,"","",45.6596639179285,9.61856876125757
+10501,broken,"","",45.8746021098904,10.1773568089814
+12029,broken,2.5,12029 Lecco - Via Sora   [broken: 44.5/18 Particelle sospese PM2.5 4/0/26294],45.8637488412797,9.39995034468185
+5586,broken,0.9,5586 Bergamo - via Meucci   [broken: 36.6/40 Biossido di Azoto 96/0/8670],45.6910374054721,9.64365057946139
+10451,air pollution,3.2,10451 Lodi - S. Alberto   [air pollution: 63.1/20 Ossidi di Azoto 3/0/0],45.3027835030958,9.49527369692632
+12531,broken,"","",45.1504688698568,9.93059647227233
+12640,broken,"","",45.470499014097,9.19746036011253
+10048,ok,0.0,10048 Scaldasole - AGIP   [ok: 8.5/350 Biossido di Zolfo 1/0/0],45.1243945825831,8.91175487228035
+9961,broken,"","",45.5130388186538,10.1919418887793
+10048,ok,0.0,10048 Scaldasole - AGIP   [ok: 4.8/125 Biossido di Zolfo 24/0/0],45.1243945825831,8.91175487228035
+10143,ok,0.1,10143 Ostiglia - via Colombo   [ok: 27.4/200 Biossido di Azoto 1/0/0],45.073311155732,11.1370340072998
+17122,broken,2.3,17122 Milano - via Senato   [broken: 41.8/18 Particelle sospese PM2.5 4/0/26294],45.470499014097,9.19746036011253
+5549,broken,0.9,5549 Magenta   [broken: 34.8/40 Biossido di Azoto 96/0/8670],45.4624157911066,8.88021043312557
+6318,ok,"","",45.5961339321329,8.91881399306327
+6852,ok,0.2,6852 Ospitaletto   [ok: 38.4/200 Biossido di Azoto 1/0/0],45.5532513997544,10.0849161439684
+9920,air pollution,1.9,9920 Viadana   [air pollution: 38.8/20 Ossidi di Azoto 3/0/0],44.9246940495507,10.5175020671178
+10291,broken,0.0,10291 Moggio   [broken: 0.2/200 Ammoniaca 1/0/23],45.9127875203029,9.49753816765342
+5535,broken,0.6,5535 Cuggiono   [broken: 23.8/40 Biossido di Azoto 96/0/8670],45.5014842949991,8.8044537623984
+5580,ok,0.2,5580 Calolziocorte   [ok: 31.9/200 Biossido di Azoto 1/0/0],45.8020955051409,9.42946732027788
+5610,broken,0.7,5610 Abbadia Cerreto   [broken: 26.9/40 Biossido di Azoto 96/0/8670],45.3095022692823,9.58579041612041
+9875,broken,"","",45.5802634844224,9.27357309271327
+10586,broken,2.0,10586 Cremona - Via Fatebenefratelli   [broken: 35.5/18 Particelle sospese PM2.5 4/0/26294],45.142540632217,10.0438361583694
+5611,broken,0.9,5611 Codogno - via Trento   [broken: 34.7/40 Biossido di Azoto 96/0/8670],45.1593728023411,9.69814824935254
+5805,ok,0.1,5805 Lecco - Via Amendola   [ok: 0.8/10 Monossido di Carbonio 8/0/0],45.8501911945785,9.39557706689322
+9857,broken,0.8,9857 Voghera - via Pozzoni   [broken: 32.0/40 Biossido di Azoto 96/0/8670],44.9995459891403,9.00843738181569
+5507,ok,0.2,5507 Sesto S.Giovanni   [ok: 40.9/200 Biossido di Azoto 1/0/0],45.5347657650922,9.23610792341164
+5542,broken,1.2,5542 Milano - viale Liguria   [broken: 46.0/40 Biossido di Azoto 96/0/8670],45.4438576535649,9.16794450174268
+12609,broken,0.0,12609 Magenta   [broken: 0.2/5 Cadmio 1/0/8765],45.4624157911066,8.88021043312557
+5606,broken,0.7,5606 Castiraga   [broken: 26.5/40 Biossido di Azoto 96/0/8670],45.2623251999215,9.40028132306792
+6582,ok,0.0,6582 Como - viale Cattaneo   [ok: 3.1/120 Ozono 8/0/0],45.8150428601129,9.06697137484454
+5517,broken,"","",45.5234256620035,9.04459987111101
+5747,ok,0.0,5747 Somma Lombardo - MXP   [ok: 4.8/120 Ozono 8/0/0],45.6495371272924,8.71269145828479
+5846,ok,0.2,5846 Tirano - viale Italia   [ok: 1.6/10 Monossido di Carbonio 8/0/0],46.2177462143941,10.1564702321463
+6286,air pollution,3.8,6286 Agrate   [air pollution: 76.2/20 Ossidi di Azoto 3/0/0],45.5757847592281,9.3541056508192
+10037,air pollution,2.7,10037 Ferno   [air pollution: 53.8/20 Ossidi di Azoto 3/0/0],45.6192437799476,8.75697044545343
+10301,broken,0.4,10301 Lecco - Via Amendola   [broken: 1.8/5 Benzene 4/0/8762],45.8501911945785,9.39557706689322
+11041,broken,0.0,11041 Monza - via Machiavelli   [broken: 5.8/125 Biossido di Zolfo 17/0/7],45.5802634844224,9.27357309271327
+5555,ok,0.2,5555 Varese - Vidoletti   [ok: 35.0/200 Biossido di Azoto 1/0/0],45.8369007765555,8.80392612667495
+5560,ok,0.2,5560 Lonate Pozzolo   [ok: 36.3/200 Biossido di Azoto 1/0/0],45.5940235171086,8.7407965765392
+5704,ok,0.0,5704 Sondrio - via Mazzini   [ok: 3.7/350 Biossido di Zolfo 1/0/0],46.1679668122783,9.87014407497457
+6236,air pollution,5.1,6236 Fino Mornasco   [air pollution: 101.8/20 Ossidi di Azoto 3/0/0],45.7480444095457,9.04259284418394
+6428,air pollution,1.9,6428 Soresina   [air pollution: 37.1/20 Ossidi di Azoto 3/0/0],45.2839771544676,9.86339841999363
+6910,broken,"","",45.6617621918917,9.1566439845516
+6955,broken,"","",45.145260125789,10.8033259500793
+9983,broken,1.4,9983 Cornale (Voghera Energia)   [broken: 25.0/18 Particelle sospese PM2.5 2/2/26294],45.0400765720296,8.91414459900241
+10452,ok,0.2,10452 Lodi - S. Alberto   [ok: 40.9/200 Biossido di Azoto 1/0/0],45.3027835030958,9.49527369692632
+10505,air pollution,12.4,10505 Dalmine - via Verdi   [air pollution: 248.5/20 Ossidi di Azoto 3/0/0],45.6497025123625,9.60122333878526
+30158,broken,2.8,30158 Brescia - Broletto   [broken: 50.3/18 Particelle sospese PM2.5 4/0/26294],45.5400578469714,10.2228184492742
+5508,ok,"","",45.5961339321329,8.91881399306327
+5547,ok,0.2,5547 Cormano   [ok: 40.5/200 Biossido di Azoto 1/0/0],45.5510419443724,9.16261365315132
+5555,broken,1.0,5555 Varese - Vidoletti   [broken: 39.0/40 Biossido di Azoto 96/0/8670],45.8369007765555,8.80392612667495
+6270,air pollution,3.0,6270 Melegnano   [air pollution: 59.6/20 Ossidi di Azoto 3/0/0],45.35428575071,9.32924342411371
+9984,broken,2.7,9984 Brescia - Villaggio Sereno   [broken: 48.3/18 Particelle sospese PM2.5 4/0/26294],45.5130388186538,10.1919418887793
+12577,broken,2.0,12577 Cremona - p.zza Cadorna   [broken: 35.5/18 Particelle sospese PM2.5 4/0/26294],45.1319469128517,10.015741513336
+5551,ok,0.2,5551 Milano - via Senato   [ok: 44.7/200 Biossido di Azoto 1/0/0],45.470499014097,9.19746036011253
+5617,ok,0.0,5617 Cassano d`Adda - Via di Vona   [ok: 3.4/350 Biossido di Zolfo 1/0/0],45.5200086703217,9.51222096894355
+5709,ok,0.0,5709 Carate Brianza   [ok: 4.9/120 Ozono 8/0/0],45.6720247340785,9.23459166178805
+5792,broken,"","",45.7159124698522,9.68895874530976
+20082,broken,0.0,20082 Colico   [broken: 7.9/200 Ammoniaca 1/0/23],46.1381409051264,9.38468724765179
+5542,ok,0.2,5542 Milano - viale Liguria   [ok: 42.8/200 Biossido di Azoto 1/0/0],45.4438576535649,9.16794450174268
+5573,broken,0.8,5573 Tirano - viale Italia   [broken: 30.7/40 Biossido di Azoto 96/0/8670],46.2177462143941,10.1564702321463
+5601,broken,0.5,5601 S.Rocco al Porto   [broken: 18.2/40 Biossido di Azoto 96/0/8670],45.0819866969786,9.70078817718398
+6691,ok,0.0,6691 Pavia - via Folperti   [ok: 2.6/120 Ozono 8/0/0],45.1946760990779,9.16463830063009
+6904,ok,0.0,6904 Osio Sotto   [ok: 4.5/120 Ozono 8/0/0],45.6205556793956,9.61173782181237
+10167,broken,0.5,10167 Schivenoglia   [broken: 19.7/40 Biossido di Azoto 96/0/8670],45.0168778207554,11.0760946326405
+5521,broken,"","",45.4680440793097,8.73676932023362
+6898,ok,0.1,6898 Mantova - Lunetta 2   [ok: 23.7/200 Biossido di Azoto 1/0/0],45.1579852781893,10.8239314339681
+9890,broken,"","",45.5802634844224,9.27357309271327

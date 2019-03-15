@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/usr_spark/Projects/SparkStreaming/data/stream/input/20160101_sensors.csv","timestamp":1550256872329,"batchId":0}
+{"path":"file:///home/usr_spark/Projects/SparkStreaming/data/stream/input/20160102_sensors.csv","timestamp":1550256984954,"batchId":0}
+{"path":"file:///home/usr_spark/Projects/SparkStreaming/data/stream/input/20160103_sensors.csv","timestamp":1550257027215,"batchId":0}
+{"path":"file:///home/usr_spark/Projects/SparkStreaming/data/stream/input/20160104_sensors.csv","timestamp":1550257123918,"batchId":0}
