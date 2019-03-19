@@ -11,7 +11,7 @@ source $DIR/utils/setup.sh # run setup (load parameters)
 
 
 
-
+# limit resourcdes https://stackoverflow.com/questions/43516948/how-do-i-run-multiple-spark-applications-in-parallel-in-standalone-master
 # run Analyzer app
 ${SPARK_HOME}/bin/spark-submit \
     --class tk.analysis.Analyzer \
