@@ -3,4 +3,4 @@ Postgraduate project with Apache Spark Structured Streaming in action. Streaming
 
 
 
-![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/fin/architecture.png)
+![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/fin/architecture.png){:width="500px"}
