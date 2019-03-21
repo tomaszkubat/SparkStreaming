@@ -3,31 +3,33 @@
 # run Analyzer app
 ###############################################################################
 
-echo "STARTING ANALYZER SCRIPT" | ts '%Y-%m-%d %H-%M-%S [INFO]'
-sleep 2
 
 DIR="$(dirname "$(readlink -f "$0")")" # get file directory
 source $DIR/utils/setup.sh # run setup (load parameters)
 
 
 
-# limit resourcdes https://stackoverflow.com/questions/43516948/how-do-i-run-multiple-spark-applications-in-parallel-in-standalone-master
-# run Analyzer app
-${SPARK_HOME}/bin/spark-submit \
-    --class tk.analysis.Analyzer \
-    --master $MASTER \
-    --deploy-mode cluster \
-    $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar
+# Run Analyzer in never ending loop :)
+while true
+do
 
+    echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO  Connecting Analyzer to cluster $MASTER"
+    sleep 1
 
-echo "STOPPING ANALYZER SCRIPT" | ts '%Y-%m-%d %H-%M-%S [INFO]'
+	${SPARK_HOME}/bin/spark-submit \
+        --class tk.analysis.Analyzer \
+        --master $MASTER \
+        --deploy-mode cluster \
+        --driver-memory 500M \
+        --conf spark.executor.memory=1g \
+        --conf spark.cores.max=1 \
+        $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar
+
+    echo "`date +%Y-%m-%d_%H:%M:%S` INFO  Analyzer was being run"
+    echo -e "***\nNext run starts in ${ANALYZER_REFRESH_INTERVAL} seconds.\nDon't kill this process."
+  	sleep ${ANALYZER_REFRESH_INTERVAL}
+
+done
+
 
 exit 0 # success
-
-# never ending loop
-# FLAGCONTINUE=0
-# until [ ${FLAGCONTINUE} < 1 ]; do
-#	echo aaa
-#  	sleep 1
-# done
-

@@ -10,7 +10,6 @@ package tk.stream
 
 import org.apache.spark.SparkConf
 import org.apache.spark.sql._
-// import org.apache.spark.sql.functions._
 
 
 object Streamer {
@@ -22,7 +21,7 @@ object Streamer {
     // Configuration parameters (to create spark session and contexts)
     val appName = "StreamingApp" // app name
     val master = "local[*]" // master configuration
-    val dataDir = "/home/usr_spark/Projects/SparkStreaming/data/stream/"
+    val dataDir = "/home/usr_spark/Projects/SparkStreaming/data/"
     val refreshInterval = 30 // seconds
 
 
@@ -40,7 +39,7 @@ object Streamer {
     val streamIn = spark.readStream
       .format("csv")
       .schema(sensorsSchema)
-      .load(dataDir + "input/")
+      .load(dataDir + "stream/input/")
       .drop("OperatorId") // remove "OperatorId" column
 
 
@@ -51,8 +50,8 @@ object Streamer {
     val streamOut = streamIn.writeStream
       .queryName("streamingOutput")
       .format("parquet")
-      .option("checkpointLocation", dataDir + "/output/checkpoint/")
-      .option("path", dataDir + "output/")
+      .option("checkpointLocation", dataDir + "stream/output/checkpoint/")
+      .option("path", dataDir + "stream/output/")
       .trigger(Trigger.ProcessingTime(refreshInterval + " seconds"))
       .start()
 
