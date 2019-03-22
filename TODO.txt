@@ -1,4 +1,6 @@
 add - runing spark application:
+scala + dropbox:
+https://vincent.jousse.org/en/tech/dropbox-scala-play-framework-example/
 
 1. pass parameters during submitting applications on cluster
 2. check if R can get refreshable data from dropbox
