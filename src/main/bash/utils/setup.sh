@@ -45,8 +45,11 @@ ANALYZER_MIN_EFFICIENCY=0.9 # Analyzer min efficiency to assume sensor as workin
 ## PRINT RESULTS
 ############################################
 
+red='e[0;31m'
+nocolor='\e[0m'
+
 echo "starting script..."
 sleep 1
 echo -e "***\nloading setup..."
-echo "operating as: `whoami`@${MASTER_IP}"
+echo "operating as: ${red}`whoami`@${MASTER_IP}${nocolor}"
 sleep 1
