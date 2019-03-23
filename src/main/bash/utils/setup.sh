@@ -31,9 +31,14 @@ fi
 # master
 MASTER='spark://'${MASTER_IP}':7077' # use default port
 
-# directories
+# global directories
 DIR_DATA=${SPARK_APP}/data
 DIR_TARG=${SPARK_APP}/target
+
+# streaming directories
+DIR_S_TST=$DIR_DATA/stream/testData
+DIR_S_INP=$DIR_DATA/stream/input
+DIR_S_OUT=$DIR_DATA/stream/output
 
 # applications paramethers
 STREAMER_REFRESH_INTERVAL=30 # Streamer refresh interval; in seconds
@@ -45,11 +50,9 @@ ANALYZER_MIN_EFFICIENCY=0.9 # Analyzer min efficiency to assume sensor as workin
 ## PRINT RESULTS
 ############################################
 
-red='e[0;31m'
-nocolor='\e[0m'
 
-echo "starting script..."
+echo "`date +%Y-%m-%d_%H:%M:%S` INFO starting script..."
 sleep 1
-echo -e "***\nloading setup..."
-echo "operating as: ${red}`whoami`@${MASTER_IP}${nocolor}"
+echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO loading setup..."
+echo -e "`date +%Y-%m-%d_%H:%M:%S` INFO operating as: `whoami`@${MASTER_IP}\n***"
 sleep 1

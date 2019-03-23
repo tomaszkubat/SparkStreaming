@@ -7,8 +7,7 @@ https://vincent.jousse.org/en/tech/dropbox-scala-play-framework-example/
 3. R - change datasource to dropbox
 4. scala - get sensors data from internet (option)
 5. scala - send analyzer output to the Dropbox
-6. write bash script to copy files (both master and worker)
-7. write bash script to split data in file (more data to analyze)
-8. test solution on full cluster
-9. documentation
-10. enjoy :)
+6. write bash script to split data in file (more data to analyze)
+7. test solution on full cluster
+8. documentation
+9. enjoy :)
