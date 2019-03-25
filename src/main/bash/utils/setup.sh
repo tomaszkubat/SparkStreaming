@@ -56,3 +56,5 @@ sleep 1
 echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO loading setup..."
 echo -e "`date +%Y-%m-%d_%H:%M:%S` INFO operating as: `whoami`@${MASTER_IP}\n***"
 sleep 1
+echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO setup.sh finished, have a nice day" # final info
+sleep 1
