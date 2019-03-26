@@ -23,12 +23,10 @@ object Analyzer {
     * parameters and configuration
     *****************************************/
 
-    // configuration parameters
-    val appName = "Analyzer" // app name
-    val master = "local[*]" // master configuration
-    val dataDir = "/home/usr_spark/Projects/SparkStreaming/data/"
-
-    val minEfficiency: Double = 0.9 // min ratio of valid observation to classify sensor as valid
+    val appName = "Analyzer"      // application name
+    val master = args(0)          // master to run application
+    val minEfficiency = args(1)   // sensor minimal efficiency (min ratio of valid observation to classify sensor as valid)
+    val dataDir = args(2)         // directory to get/store data
 
 
     // initialize context

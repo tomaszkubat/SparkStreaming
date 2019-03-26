@@ -13,17 +13,17 @@ source $DIR/utils/setup.sh # run setup (load parameters)
 while true
 do
 
-    echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO  Connecting Analyzer to cluster $MASTER"
+    echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO  Connecting Analyzer to cluster ${MASTER}"
     sleep 1
 
 	${SPARK_HOME}/bin/spark-submit \
         --class tk.analysis.Analyzer \
-        --master $MASTER \
+        --master ${MASTER} \
         --deploy-mode cluster \
-        --driver-memory 500M \
-        --conf spark.executor.memory=1g \
+        --driver-memory 512M \
+        --conf spark.executor.memory=4g \
         --conf spark.cores.max=1 \
-        $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar
+        $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar ${MASTER} ${ANALYZER_MIN_EFFICIENCY} ${DIR_DATA}
 
     echo "`date +%Y-%m-%d_%H:%M:%S` INFO  Analyzer was being run"
     echo -e "***\nNext run starts in ${ANALYZER_REFRESH_INTERVAL} seconds.\nDon't kill this process."

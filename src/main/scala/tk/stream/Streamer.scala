@@ -1,9 +1,9 @@
 /****************************************
 * STREAMER
-* 1.0 beta
+* 1.0
 *****************************************
 * read data from csv (local)
-* and save as parquet (local)
+* save data as parquet (local)
 ****************************************/
 
 package tk.stream
@@ -18,11 +18,11 @@ object Streamer {
 
   def main(args: Array[String]): Unit = {
 
-    // Configuration parameters (to create spark session and contexts)
-    val appName = "StreamingApp" // app name
-    val master = "local[*]" // master configuration
-    val dataDir = "/home/usr_spark/Projects/SparkStreaming/data/"
-    val refreshInterval = 30 // seconds
+    // configuration parameters
+    val appName = "Streamer"        // application name
+    val master = args(0)            // master to run application
+    val refreshInterval = args(1)   // application refresh interval; in seconds
+    val dataDir = args(2)           // directory to get/store data
 
 
     // initialize context
@@ -31,8 +31,6 @@ object Streamer {
 
 
     import spark.implicits._
-
-    // TODO change file source to Kafka (must)
 
     // read streaming data
     val sensorsSchema = Encoders.product[SensorsSchema].schema

@@ -54,7 +54,7 @@ ANALYZER_MIN_EFFICIENCY=0.9 # Analyzer min efficiency to assume sensor as workin
 echo "`date +%Y-%m-%d_%H:%M:%S` INFO starting script..."
 sleep 1
 echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO loading setup..."
-echo -e "`date +%Y-%m-%d_%H:%M:%S` INFO operating as: `whoami`@${MASTER_IP}\n***"
+echo -e "`date +%Y-%m-%d_%H:%M:%S` INFO operating as: `whoami`@${MASTER_IP}"
 sleep 1
 echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO setup.sh finished, have a nice day" # final info
 sleep 1

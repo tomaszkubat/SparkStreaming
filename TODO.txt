@@ -1,11 +1,5 @@
-add - runing spark application:
-scala + dropbox:
-https://vincent.jousse.org/en/tech/dropbox-scala-play-framework-example/
-
-1. pass parameters during submitting applications on cluster
-2. check if R can get refreshable data from dropbox
+1. check if R can get refreshable data from dropbox
+2. scala - send analyzer output to the Dropbox
 3. R - change datasource to dropbox
-4. scala - get sensors data from internet (option)
-5. scala - send analyzer output to the Dropbox
-6. test solution on full cluster
-7. documentation
+4. documentation
+5. scala - get sensors data from internet (option, nice to have)

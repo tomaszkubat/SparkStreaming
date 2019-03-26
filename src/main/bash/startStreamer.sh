@@ -9,17 +9,17 @@ source $DIR/utils/setup.sh # run setup (load parameters)
 
 
 
-echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO  Connecting Streamer to cluster $MASTER"
+echo -e "***\n`date +%Y-%m-%d_%H:%M:%S` INFO  Connecting Streamer to cluster ${MASTER}"
 sleep 1
 
 ${SPARK_HOME}/bin/spark-submit \
     --class tk.stream.Streamer \
-    --master $MASTER \
+    --master ${MASTER} \
     --deploy-mode cluster \
-    --driver-memory 500M \
-    --conf spark.executor.memory=1g \
-    --conf spark.cores.max=2 \
-    $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar
+    --driver-memory 512M \
+    --conf spark.executor.memory=4g \
+    --conf spark.cores.max=3 \
+    $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar ${MASTER} ${STREAMER_REFRESH_INTERVAL} ${DIR_DATA}
 
 echo "`date +%Y-%m-%d_%H:%M:%S` INFO  Streamer was being run"
 
