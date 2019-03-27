@@ -1,5 +1,7 @@
-1. check if R can get refreshable data from dropbox
-2. scala - send analyzer output to the Dropbox
-3. R - change datasource to dropbox
+# how to use google drive with spark
+# https://github.com/potix2/spark-google-spreadsheets
+
+1. R - check datasource to the GoogleDrive/Dropbox/Amazon
+2. scala - send analyzer output to the GoogleDrive/Dropbox/Amazon
 4. documentation
 5. scala - get sensors data from internet (option, nice to have)
