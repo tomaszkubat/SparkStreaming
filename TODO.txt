@@ -5,3 +5,10 @@
 2. scala - send analyzer output to the GoogleDrive/Dropbox/Amazon
 4. documentation
 5. scala - get sensors data from internet (option, nice to have)
+
+
+https://googledrive.tidyverse.org/
+R - how to get data from google drive
+install.packages("googledrive")
+library("googledrive")
+Most functions begin with the prefix drive_. Auto-completion is your friend.
