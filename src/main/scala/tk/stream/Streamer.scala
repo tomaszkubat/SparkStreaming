@@ -41,8 +41,6 @@ object Streamer {
       .drop("OperatorId") // remove "OperatorId" column
 
 
-    // TODO save result in S3 (nice to have)
-
     // write streaming data
     import org.apache.spark.sql.streaming.Trigger
     val streamOut = streamIn.writeStream

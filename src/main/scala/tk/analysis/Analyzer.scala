@@ -148,9 +148,6 @@ object Analyzer {
       .select("SensorId", "State", "Ratio", "Label", "CordsLat", "CordsLng")
 
 
-
-    // TODO export to S3 (nice to have)
-
     // export sensors data
     metricsOut
       .repartition(1)
