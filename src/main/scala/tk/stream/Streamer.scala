@@ -37,7 +37,7 @@ object Streamer {
     val streamIn = spark.readStream
       .format("csv")
       .schema(sensorsSchema)
-      .load(dataDir + "stream/input/")
+      .load(dataDir + "/stream/input/")
       .drop("OperatorId") // remove "OperatorId" column
 
 
@@ -46,8 +46,8 @@ object Streamer {
     val streamOut = streamIn.writeStream
       .queryName("streamingOutput")
       .format("parquet")
-      .option("checkpointLocation", dataDir + "stream/output/checkpoint/")
-      .option("path", dataDir + "stream/output/")
+      .option("checkpointLocation", dataDir + "/stream/output/checkpoint/")
+      .option("path", dataDir + "/stream/output/")
       .trigger(Trigger.ProcessingTime(refreshInterval + " seconds"))
       .start()
 
