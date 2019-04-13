@@ -23,10 +23,12 @@ object Analyzer {
     * parameters and configuration
     *****************************************/
 
-    val appName = "Analyzer"      // application name
-    val master = args(0)          // master to run application
-    val minEfficiency = args(1)   // sensor minimal efficiency (min ratio of valid observation to classify sensor as valid)
-    val dataDir = args(2)         // directory to get/store data
+    val appName = "Analyzer"       // application name
+    val master = args(0)           // master to run application
+    val minEfficiency = args(1)    // sensor minimal efficiency (min ratio of valid observation to classify sensor as valid)
+    val dataDir = args(2)          // directory to get/store data
+
+
 
 
     // initialize context
@@ -45,13 +47,13 @@ object Analyzer {
     // load sensors data from parquet file
 	  // extend data with a flag columns
     val sensorsData = spark.read
-      .parquet(dataDir + "stream/output/")
+      .parquet(dataDir + "/stream/output/")
       .withColumn("Timestamp", unix_timestamp($"Timestamp", "dd/MM/yyyy HH:mm:ss").cast(TimestampType)) // convert string to timestamp
 
 
     // load air standards data and sensors meta
-    val standards = new LoadFile(spark, dataDir + "static/input/airStandards.csv") // air standards
-    val sensorsMeta = new LoadSensorsMeta(spark, dataDir + "static/input/sensorsMeta.csv") // sensors metadata
+    val standards = new LoadFile(spark, dataDir + "/static/input/airStandards.csv") // air standards
+    val sensorsMeta = new LoadSensorsMeta(spark, dataDir + "/static/input/sensorsMeta.csv") // sensors metadata
 
 
     /*****************************************
@@ -155,7 +157,7 @@ object Analyzer {
       .mode(SaveMode.Overwrite) // override file if exists
       .format("csv")
       .option("header","true")
-      .save(dataDir + "static/output/sensorsOut.csv")
+      .save(dataDir + "/static/output/sensorsOut.csv")
 
     // export timestamp
     maxTime
@@ -164,7 +166,7 @@ object Analyzer {
       .mode(SaveMode.Overwrite) // override file if exists
       .format("csv")
       .option("header","true")
-      .save(dataDir + "static/output/timestamp.csv")
+      .save(dataDir + "/static/output/timestamp.csv")
 
 
     // stop Spark session

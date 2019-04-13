@@ -21,8 +21,8 @@ do
         --master ${MASTER} \
         --deploy-mode cluster \
         --driver-memory 512M \
-        --conf spark.executor.memory=4g \
-        --conf spark.cores.max=1 \
+	--conf spark.cores.max=2 \
+        --conf spark.executor.memory=5g \
         $DIR_TARG/scala-2.11/sparkapps_2.11-0.1.jar ${MASTER} ${ANALYZER_MIN_EFFICIENCY} ${DIR_DATA}
 
     echo "`date +%Y-%m-%d_%H:%M:%S` INFO  Analyzer was being run"
