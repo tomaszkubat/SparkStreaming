@@ -19,10 +19,10 @@ shinyServer(function(input, output) {
   
   # get timestamps
   genTmstmp <- as.character(format(Sys.time(), '%Y-%m-%d %H:%M:%S')) # current timestamp
-  maxTmstmp <- as.character(read.csv(file='data/timestamp.csv/part-00000.csv', sep=',')[1,1]) # value
+  maxTmstmp <- as.character(read.csv(file='exampleData/timestamp.csv/part-00000.csv', sep=',')[1,1]) # value
   
   # laod sensor data
-  sensors <- read.csv(file='data/sensorsOut.csv/part-00000.csv', header=TRUE, sep=',') # data.frame
+  sensors <- read.csv(file='exampleData/sensorsOut.csv/part-00000.csv', header=TRUE, sep=',') # data.frame
   sensors$Color <- case_when(
     sensors$State == "ok" ~ "green",
     sensors$State == "broken" ~ "black",
