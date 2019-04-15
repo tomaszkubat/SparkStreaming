@@ -4,7 +4,7 @@ This document is a short brochure about my postgraduate project with Apache Spar
 **Project contains**:
 - two small Scala applications (**Streamer, Analyzer**),
 - map visualization in R (**VisualizeR**),
-- a few additional bash scripts to ensure handy operating with applications.
+- a few **additional bash scripts** to ensure handy operating with applications.
 
 Whole solution is rather an example (small Spark in-action demo) than a production-ready solution. In the documentation are enclosed some annotations about possibloe prodctions upgrades. E.g. it would be great to use Apache Kafka Streams as a data broker to provide fully data integration and streaming solution, which i didn't use, because it was out of scope.
 
