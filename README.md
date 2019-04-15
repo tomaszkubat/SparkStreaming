@@ -27,5 +27,12 @@ Befor running an applications some configuration steps are required. Configurati
 # Runing applications
 ### Data
 To test the applications **you can use a small example dataset it is absolutely fine. If you would like to see aplication handling with broader historical data, it's necesary to make some pre-steps**:
-1) Manualy download the data from ![ARPA page](https://dati.lombardia.it/stories/s/auv9-c2sj)
-2) cc  
+1) muanualy download the data from ![ARPA page](https://dati.lombardia.it/stories/s/auv9-c2sj)
+2) use provided script to split the data:
+```bash
+# navigate to directory with downloaded files
+$cd /home/usr_spark/Downloads
+# use script to split data
+$ .$SPARK_APP/src/maiin/bash/utils/splitTestData.sh
+```
+
