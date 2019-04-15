@@ -25,7 +25,7 @@ Befor running an applications some configuration steps are required. Configurati
 
 
 # Runing applications
-### Runing Spark cluster in standalone mode
+## Runing Spark cluster in standalone mode
 1) Ensure, that machines you are supposed to use are running.
 2) Log to the master node as 'usr_spark' user
 3) **Run Spark cluster**:
@@ -34,19 +34,40 @@ Befor running an applications some configuration steps are required. Configurati
 $ cd $SPARK_HOME
 # use predefined script to run cluster
 $ ./sbin/start-all.sh
-# wait a while
-```
-4a) Check if cluster is running:
-* terminal:
-```bash
+# wait a while and check if cluster is running
 $ jps
 # worker and master processes should be visible
 ```
-* webui - open web brbowser and type 'localhost:8080'. Webpages with master and workers details should be availible.
+4) Open webui - in the web browser addres field type 'localhost:8080'. Webpages with master and workers details should be availible.
 
+## Runing applications
+1) On master - navigate to applications running scripts:
+```bash
+$ cd $SPARK_HOME/src/main/bash
+```
+2) Configure you applications if it is required (option):
+```bash
+$ vi utils/setup.sh
+# edit some parameters
+```
+3) Simulate data stream:
+```bash
+$ ./utils/simulateDataStream.sh
+```
+4) **Run applications** (on master or slave node):
+```bash
+# run Streamer (it works constantly)
+$ ./startStreamer.sh
+# run Analyzer (it starts every 30 minutes by default)
+$ ./startAnalyzer.sh
+```
 
-### Prepare broder data (option)
-To test the applications **you can use a small example dataset it is absolutely fine. If you would like to see aplication handling with broader historical data, it's necesary to make some pre-steps**:
+## Monitoring applications
+Use webui in our web browser to monitor progress of your applications - by default: localhost:8080.
+To stop applications just kill processes in webui.
+
+## Running applications with broader data (option)
+To test the applications you can use a small example dataset it is absolutely fine. If you would like to see aplication handling with broader historical data, it's necesary to make some pre-steps:
 1) muanualy download the data from ![ARPA page](https://dati.lombardia.it/stories/s/auv9-c2sj)
 2) use provided script to split the data:
 ```bash
