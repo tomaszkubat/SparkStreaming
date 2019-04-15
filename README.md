@@ -9,20 +9,14 @@ This document is a short brochure about my postgraduate project with Apache Spar
 Whole solution is rather an example (small Spark in-action demo) than a production-ready solution. In the documentation are enclosed some annotations about possibloe prodctions upgrades. E.g. it would be great to use Apache Kafka Streams as a data broker to provide fully data integration and streaming solution, which i didn't use, because it was out of scope.
 
 
-# Purpose
-My goal was to analyze air pollution data from Lombardia (Italy), publicized by ARPA Agency Regional Agency for Environmental Protection). We faced a few issues, because data:  
+# Purpose&solution
+My goal was to analyze air pollution data from Lombardia (Italy), publicized by ARPA Agency Regional Agency for Environmental Protection). Data and more details about it can be found here: ![datasets](https://dati.lombardia.it/stories/s/auv9-c2sj). We face a few issues, because data:  
 - are generated hourly by ~950 sensors simultaneously (**frequency**),
 - concern various (17) sensor type (**diversity**),
 - have broad history (data bask to 1968) and to prepare reasonable presentation it's required to load a data from a few years (**amount**).
 
-Data and more details about datasets can be found here: ![datasets](https://dati.lombardia.it/stories/s/auv9-c2sj)
-
-
-# Solution
 To achieve our goal we have to operate on set of different technologies - Spark, Spark Structured Streanming, R, bash. Suggested architecture is presented below: ![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/cluster.png).
-Thre main applications are used: **Streamer**, **Analyzer**, **VisualizeR**. 
-
-To perform streaming/analyzing operations we use the Spark mini-cluster, which contains two, phisicaly separated, machines:
+Thre main applications are used: **Streamer**, **Analyzer**, **VisualizeR**. To perform streaming/analyzing operations we use the Spark mini-cluster, which contains two, phisicaly separated, machines:
 ![Spark cluster](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/architecture.png).
 
 
