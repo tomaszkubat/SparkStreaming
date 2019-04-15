@@ -25,14 +25,35 @@ Befor running an applications some configuration steps are required. Configurati
 
 
 # Runing applications
-### Data
+### Runing Spark cluster in standalone mode
+1) Ensure, that machines you are supposed to use are running.
+2) Log to the master node as 'usr_spark' user
+3) **Run Spark cluster**:
+```bash
+# navigate to Spark Home
+$ cd $SPARK_HOME
+# use predefined script to run cluster
+$ ./sbin/start-all.sh
+# wait a while
+```
+4a) Check if cluster is running:
+* terminal:
+```bash
+$ jps
+# worker and master processes should be visible
+```
+* webui - open web brbowser and type 'localhost:8080'. Webpages with master and workers details should be availible.
+
+
+### Prepare broder data (option)
 To test the applications **you can use a small example dataset it is absolutely fine. If you would like to see aplication handling with broader historical data, it's necesary to make some pre-steps**:
 1) muanualy download the data from ![ARPA page](https://dati.lombardia.it/stories/s/auv9-c2sj)
 2) use provided script to split the data:
 ```bash
 # navigate to directory with downloaded files
-$cd /home/usr_spark/Downloads
+$ cd /home/usr_spark/Downloads
 # use script to split data
 $ .$SPARK_APP/src/maiin/bash/utils/splitTestData.sh
+# copy files to 'testData' directory
+$ cp * $SPARK_APP/data/stream/testData
 ```
-
