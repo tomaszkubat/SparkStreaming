@@ -19,13 +19,11 @@ Data and more details about datasets can be found here: ![datasets](https://dati
 
 
 # Solution
+To achieve our goal we have to operate on set of different technologies - Spark, Spark Structured Streanming, R, bash. Suggested architecture is presented below: ![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/cluster.png).
+Thre main applications are used: **Streamer**, **Analyzer**, **VisualizeR**. 
 
-
-
-![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/cluster.png)
-
-![architecture](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/architecture.png)
-
+To perform streaming/analyzing operations we use the Spark mini-cluster, which contains two, phisicaly separated, machines:
+![Spark cluster](https://github.com/tomaszkubat/SparkStreaming/tree/master/doc/img/fin/architecture.png).
 
 
 # Configuration
